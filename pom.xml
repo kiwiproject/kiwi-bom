@@ -19,7 +19,7 @@
         Bill of materials to make sure a consistent set of versions is used for Kiwi project modules.
     </description>
     <url>https://github.com/kiwiproject/kiwi-bom</url>
-    <inceptionYear>2020</inceptionYear>
+    <inceptionYear>2021</inceptionYear>
 
     <scm>
         <connection>scm:git:https://github.com/kiwiproject/kiwi-bom.git</connection>
@@ -94,6 +94,17 @@
         <spring-data-mongodb.version>2.2.13.RELEASE</spring-data-mongodb.version>
         <stax-ex.version>1.8.3</stax-ex.version>
         <stax2-api.version>4.2.1</stax2-api.version>
+
+        <!--
+            NOTE:
+            There is a conflict between jackson-dataformat-xml and jaxws-rt in the
+            version of woodstox-core. Jackson uses 6.x while the JAX-WS runtime
+            uses 5.x. We are choosing to use 5.x here because that is what has worked
+            for us in production services. However, it may simply be the case that
+            we have not used both jackson-dataformat-xml and jaxws-rt in the same
+            service and didn't experience any problems, so you will need to choose
+            the woodstox version you want to use and test it.
+            -->
         <woodstox-core.version>5.1.0</woodstox-core.version>
         <zookeeper.version>3.7.0</zookeeper.version>
 
@@ -700,16 +711,6 @@
                 <version>${stax-ex.version}</version>
             </dependency>
 
-            <!--
-            NOTE:
-            There is a conflict between jackson-dataformat-xml and jaxws-rt in the
-            version of woodstox-core. Jackson uses 6.x while the JAX-WS runtime
-            uses 5.x. We are choosing to use 5.x here because that is what has worked
-            for us in production services. However, it may simply be the case that
-            we have not used both jackson-dataformat-xml and jaxws-rt in the same
-            service and didn't experience any problems, so you will need to choose
-            the woodstox version you want to use and test it.
-            -->
             <dependency>
                 <groupId>com.fasterxml.woodstox</groupId>
                 <artifactId>woodstox-core</artifactId>
