@@ -29,7 +29,7 @@
     </scm>
 
     <properties>
-        <ant.version>1.10.8</ant.version>
+        <ant.version>1.10.11</ant.version>
         <archaius-core.version>0.7.6</archaius-core.version>
         <assertj-guava.version>3.4.0</assertj-guava.version>
         <byte-buddy.version>1.12.1</byte-buddy.version>
