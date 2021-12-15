@@ -44,7 +44,7 @@
         <commons-logging.version>1.2</commons-logging.version>
         <consul-client.version>1.5.1</consul-client.version>
         <curator.version>5.1.0</curator.version>
-        <dropwizard.version>2.0.25</dropwizard.version>
+        <dropwizard.version>2.0.26</dropwizard.version>
         <dropwizard.metrics.version>4.1.25</dropwizard.metrics.version>
         <embed.mongo.version>3.2.0</embed.mongo.version>
         <embedded-consul.version>2.2.1</embedded-consul.version>
@@ -72,9 +72,9 @@
         <jaxb-api.version>2.3.1</jaxb-api.version>
         <jaxws-rt.version>2.3.3</jaxws-rt.version>
         <jboss-logging.version>3.4.2.Final</jboss-logging.version>
-        <jdbi3.version>3.21.0</jdbi3.version>
+        <jdbi3.version>3.25.0</jdbi3.version>
         <jersey.version>2.33</jersey.version>
-        <jetty.version>9.4.43.v20210629</jetty.version>
+        <jetty.version>9.4.44.v20210927</jetty.version>
         <joda-time.version>2.10.10</joda-time.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
