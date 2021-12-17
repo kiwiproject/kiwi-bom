@@ -84,7 +84,7 @@
         <liquibase.version>3.10.3</liquibase.version>
         <logback.version>1.2.8</logback.version>
         <logstash.version>6.6</logstash.version>
-        <mongo-java-driver.version>3.12.9</mongo-java-driver.version>
+        <mongo-java-driver.version>3.12.10</mongo-java-driver.version>
         <mongo-java-server.version>1.39.0</mongo-java-server.version>
         <netty.version>4.1.70.Final</netty.version>
         <okhttp.version>4.9.0</okhttp.version>
