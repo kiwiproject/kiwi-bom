@@ -91,17 +91,6 @@
         <spring-data-mongodb.version>2.2.13.RELEASE</spring-data-mongodb.version>
         <stax-ex.version>1.8.3</stax-ex.version>
         <stax2-api.version>4.2.1</stax2-api.version>
-
-        <!--
-            NOTE:
-            There is a conflict between jackson-dataformat-xml and jaxws-rt in the
-            version of woodstox-core. Jackson uses 6.x while the JAX-WS runtime
-            uses 5.x. We are choosing to use 5.x here because that is what has worked
-            for us in production services. However, it may simply be the case that
-            we have not used both jackson-dataformat-xml and jaxws-rt in the same
-            service and didn't experience any problems, so you will need to choose
-            the woodstox version you want to use and test it.
-            -->
         <woodstox-core.version>6.2.7</woodstox-core.version>
         <zookeeper.version>3.7.0</zookeeper.version>
 
