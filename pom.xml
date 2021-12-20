@@ -102,7 +102,7 @@
             service and didn't experience any problems, so you will need to choose
             the woodstox version you want to use and test it.
             -->
-        <woodstox-core.version>5.1.0</woodstox-core.version>
+        <woodstox-core.version>6.2.7</woodstox-core.version>
         <zookeeper.version>3.7.0</zookeeper.version>
 
         <!-- Sonar properties -->
