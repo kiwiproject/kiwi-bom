@@ -441,6 +441,24 @@
 
             <dependency>
                 <groupId>org.jdbi</groupId>
+                <artifactId>jdbi3-core</artifactId>
+                <version>${jdbi3.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.jdbi</groupId>
+                <artifactId>jdbi3-guava</artifactId>
+                <version>${jdbi3.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.jdbi</groupId>
+                <artifactId>jdbi3-jodatime2</artifactId>
+                <version>${jdbi3.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.jdbi</groupId>
                 <artifactId>jdbi3-postgres</artifactId>
                 <version>${jdbi3.version}</version>
             </dependency>
