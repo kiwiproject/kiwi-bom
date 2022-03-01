@@ -50,7 +50,7 @@
         <error-prone-annotations.version>2.11.0</error-prone-annotations.version>
         <eureka.version>1.10.17</eureka.version>
         <fastinfoset.version>1.2.18</fastinfoset.version>
-        <guava.version>31.0.1-jre</guava.version>
+        <guava.version>31.1-jre</guava.version>
         <h2.version>2.1.210</h2.version>
         <hibernate.version>5.6.5.Final</hibernate.version>
         <hibernate-validator.version>6.1.7.Final</hibernate-validator.version>
