@@ -31,7 +31,7 @@
         <archaius-core.version>0.7.7</archaius-core.version>
         <assertj-guava.version>3.4.0</assertj-guava.version>
         <byte-buddy.version>1.12.8</byte-buddy.version>
-        <caffine.version>3.0.5</caffine.version>
+        <caffine.version>3.0.6</caffine.version>
         <checker-qual.version>3.21.3</checker-qual.version>
         <classmate.version>1.5.1</classmate.version>
         <commons-configuration.version>1.10</commons-configuration.version>
