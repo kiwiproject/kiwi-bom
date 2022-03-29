@@ -79,7 +79,7 @@
         <jsr305.version>3.0.2</jsr305.version>
         <junit.platform.commons.version>1.8.2</junit.platform.commons.version>
         <kotlin.version>1.4.10</kotlin.version>
-        <liquibase.version>3.10.3</liquibase.version>
+        <liquibase.version>4.9.1</liquibase.version>
         <logstash.version>6.6</logstash.version>
         <mongo-java-driver.version>3.12.10</mongo-java-driver.version>
         <mongo-java-server.version>1.39.0</mongo-java-server.version>
