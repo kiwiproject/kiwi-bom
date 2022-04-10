@@ -379,6 +379,11 @@
                 <version>${jackson.version}</version>
             </dependency>
 
+            <!--
+                This is here to resolve dependency conflicts between the version used by
+                com.sun.xml.ws:jaxws-rt and com.sun.mail:jakarta.mail. It should be
+                re-evaluated from time-to-time.
+            -->
             <dependency>
                 <groupId>com.sun.activation</groupId>
                 <artifactId>jakarta.activation</artifactId>
@@ -487,6 +492,10 @@
                 <version>${jersey.version}</version>
             </dependency>
 
+            <!--
+                This is here due to dropwizard (testing, client, etc.) being stuck on Jersey 2.33. At Dropwizard 2.1.0
+                they've moved to Jersey 2.35, so we can probably remove at that point.
+            -->
             <dependency>
                 <groupId>org.glassfish.jersey.containers</groupId>
                 <artifactId>jersey-container-servlet-core</artifactId>
@@ -649,6 +658,10 @@
                 <version>${netty.version}</version>
             </dependency>
 
+            <!--
+                This was added to resolve conflicts with mongo-java-server.
+                It should be re-evaluated from time-to-time.
+            -->
             <dependency>
                 <groupId>io.netty</groupId>
                 <artifactId>netty-codec</artifactId>
