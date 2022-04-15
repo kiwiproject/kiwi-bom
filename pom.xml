@@ -87,7 +87,7 @@
         <mongo-java-server.version>1.39.0</mongo-java-server.version>
         <netty.version>4.1.76.Final</netty.version>
         <okhttp.version>4.9.3</okhttp.version>
-        <postgresql.version>42.3.3</postgresql.version>
+        <postgresql.version>42.3.4</postgresql.version>
         <servo-core.version>0.13.2</servo-core.version>
         <spring.version>5.3.19</spring.version>
         <spring-data-mongodb.version>2.2.13.RELEASE</spring-data-mongodb.version>
