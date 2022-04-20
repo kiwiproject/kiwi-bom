@@ -85,7 +85,7 @@
         <logback-classic.version>1.2.11</logback-classic.version>
         <logback-core.version>1.2.11</logback-core.version>
         <logstash.version>6.6</logstash.version>
-        <mongodb-driver-core.version>4.5.1</mongodb-driver-core.version>
+        <mongodb-driver-core.version>4.6.0</mongodb-driver-core.version>
         <mongodb-driver-reactivestreams.version>4.6.0</mongodb-driver-reactivestreams.version>
         <mongodb-driver-sync.version>4.6.0</mongodb-driver-sync.version>
         <mongo-java-driver.version>3.12.10</mongo-java-driver.version>
