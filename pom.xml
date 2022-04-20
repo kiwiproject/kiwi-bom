@@ -96,7 +96,7 @@
         <servo-core.version>0.13.2</servo-core.version>
         <slf4j-api.version>1.7.36</slf4j-api.version>
         <spring.version>5.3.19</spring.version>
-        <spring-data-mongodb.version>3.3.3</spring-data-mongodb.version>
+        <spring-data-mongodb.version>3.3.4</spring-data-mongodb.version>
         <stax-ex.version>1.8.3</stax-ex.version>
         <stax2-api.version>4.2.1</stax2-api.version>
         <woodstox-core.version>6.2.8</woodstox-core.version>
