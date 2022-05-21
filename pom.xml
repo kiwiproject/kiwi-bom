@@ -427,32 +427,10 @@
 
             <dependency>
                 <groupId>org.jdbi</groupId>
-                <artifactId>jdbi3-core</artifactId>
+                <artifactId>jdbi3-bom</artifactId>
                 <version>${jdbi3.version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>org.jdbi</groupId>
-                <artifactId>jdbi3-guava</artifactId>
-                <version>${jdbi3.version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>org.jdbi</groupId>
-                <artifactId>jdbi3-jodatime2</artifactId>
-                <version>${jdbi3.version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>org.jdbi</groupId>
-                <artifactId>jdbi3-postgres</artifactId>
-                <version>${jdbi3.version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>org.jdbi</groupId>
-                <artifactId>jdbi3-sqlobject</artifactId>
-                <version>${jdbi3.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
             </dependency>
 
             <dependency>
@@ -473,10 +451,6 @@
                 <version>${jersey.version}</version>
             </dependency>
 
-            <!--
-                This is here due to dropwizard (testing, client, etc.) being stuck on Jersey 2.33. At Dropwizard 2.1.0
-                they've moved to Jersey 2.35, so we can probably remove at that point.
-            -->
             <dependency>
                 <groupId>org.glassfish.jersey.containers</groupId>
                 <artifactId>jersey-container-servlet-core</artifactId>
