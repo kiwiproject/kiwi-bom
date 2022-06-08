@@ -76,7 +76,7 @@
         <jsch.version>0.1.55</jsch.version>
         <jsr305.version>3.0.2</jsr305.version>
         <junit.platform.commons.version>1.8.2</junit.platform.commons.version>
-        <kotlin.version>1.6.21</kotlin.version>
+        <kotlin.version>1.7.0</kotlin.version>
         <liquibase.version>4.11.0</liquibase.version>
         <logback-classic.version>1.2.11</logback-classic.version>
         <logback-core.version>1.2.11</logback-core.version>
