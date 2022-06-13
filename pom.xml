@@ -87,7 +87,7 @@
         <mongo-java-driver.version>3.12.11</mongo-java-driver.version>
         <mongo-java-server.version>1.40.0</mongo-java-server.version>
         <netty.version>4.1.77.Final</netty.version>
-        <okhttp.version>4.9.3</okhttp.version>
+        <okhttp.version>4.10.0</okhttp.version>
         <postgresql.version>42.4.0</postgresql.version>
         <servo-core.version>0.13.2</servo-core.version>
         <slf4j-api.version>1.7.36</slf4j-api.version>
