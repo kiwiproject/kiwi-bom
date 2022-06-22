@@ -90,6 +90,7 @@
         <okhttp.version>4.10.0</okhttp.version>
         <postgresql.version>42.4.0</postgresql.version>
         <servo-core.version>0.13.2</servo-core.version>
+        <snakeyaml.version>1.30</snakeyaml.version>
         <slf4j-api.version>1.7.36</slf4j-api.version>
         <spring.version>5.3.21</spring.version>
         <spring-data-commons.version>2.7.1</spring-data-commons.version>
@@ -644,6 +645,12 @@
                 <groupId>org.slf4j</groupId>
                 <artifactId>slf4j-api</artifactId>
                 <version>${slf4j-api.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.yaml</groupId>
+                <artifactId>snakeyaml</artifactId>
+                <version>${snakeyaml.version}</version>
             </dependency>
 
             <dependency>
