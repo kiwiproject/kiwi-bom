@@ -97,7 +97,7 @@
         <spring-data-mongodb.version>3.4.1</spring-data-mongodb.version>
         <stax-ex.version>1.8.3</stax-ex.version>
         <stax2-api.version>4.2.1</stax2-api.version>
-        <woodstox-core.version>6.2.8</woodstox-core.version>
+        <woodstox-core.version>6.3.0</woodstox-core.version>
         <zookeeper.version>3.8.0</zookeeper.version>
 
         <!-- Sonar properties -->
