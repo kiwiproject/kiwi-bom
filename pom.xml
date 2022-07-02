@@ -42,7 +42,7 @@
         <commons-logging.version>1.2</commons-logging.version>
         <consul-client.version>1.5.3</consul-client.version>
         <curator.version>5.2.1</curator.version>
-        <dropwizard.version>2.1.0</dropwizard.version>
+        <dropwizard.version>2.1.1</dropwizard.version>
         <dropwizard.metrics.version>4.2.10</dropwizard.metrics.version>
         <embed.mongo.version>3.4.6</embed.mongo.version>
         <embed.mongo.os.version>1.1.10</embed.mongo.os.version>
