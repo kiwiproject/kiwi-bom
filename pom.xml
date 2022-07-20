@@ -44,7 +44,7 @@
         <curator.version>5.3.0</curator.version>
         <dropwizard.version>2.1.1</dropwizard.version>
         <dropwizard.metrics.version>4.2.10</dropwizard.metrics.version>
-        <embed.mongo.version>3.4.6</embed.mongo.version>
+        <embed.mongo.version>3.4.7</embed.mongo.version>
         <embed.mongo.os.version>1.1.10</embed.mongo.os.version>
         <embed.mongo.process.version>3.1.13</embed.mongo.process.version>
         <embedded-consul.version>2.2.1</embedded-consul.version>
