@@ -46,7 +46,7 @@
         <dropwizard.metrics.version>4.2.10</dropwizard.metrics.version>
         <embed.mongo.version>3.4.7</embed.mongo.version>
         <embed.mongo.os.version>1.1.11</embed.mongo.os.version>
-        <embed.mongo.process.version>3.1.13</embed.mongo.process.version>
+        <embed.mongo.process.version>3.1.14</embed.mongo.process.version>
         <embedded-consul.version>2.2.1</embedded-consul.version>
         <embedded-postgres.version>2.0.0</embedded-postgres.version>
         <error-prone-annotations.version>2.14.0</error-prone-annotations.version>
