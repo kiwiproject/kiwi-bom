@@ -75,7 +75,7 @@
         <jsonassert.version>1.5.1</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
         <jsr305.version>3.0.2</jsr305.version>
-        <junit.platform.commons.version>1.8.2</junit.platform.commons.version>
+        <junit.platform.commons.version>1.9.0</junit.platform.commons.version>
         <kotlin.version>1.7.10</kotlin.version>
         <liquibase.version>4.14.0</liquibase.version>
         <logback-classic.version>1.2.11</logback-classic.version>
