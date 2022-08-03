@@ -87,7 +87,7 @@
         <mongo-java-server.version>1.40.0</mongo-java-server.version>
         <netty.version>4.1.79.Final</netty.version>
         <okhttp.version>4.10.0</okhttp.version>
-        <postgresql.version>42.4.0</postgresql.version>
+        <postgresql.version>42.4.1</postgresql.version>
         <servo-core.version>0.13.2</servo-core.version>
         <snakeyaml.version>1.30</snakeyaml.version>
         <slf4j-api.version>1.7.36</slf4j-api.version>
