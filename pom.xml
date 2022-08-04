@@ -43,7 +43,7 @@
         <consul-client.version>1.5.3</consul-client.version>
         <curator.version>5.3.0</curator.version>
         <dropwizard.version>2.1.1</dropwizard.version>
-        <dropwizard.metrics.version>4.2.10</dropwizard.metrics.version>
+        <dropwizard.metrics.version>4.2.11</dropwizard.metrics.version>
         <embed.mongo.version>3.4.8</embed.mongo.version>
         <embed.mongo.os.version>1.1.11</embed.mongo.os.version>
         <embed.mongo.process.version>3.1.14</embed.mongo.process.version>
