@@ -77,6 +77,7 @@
         <jsr305.version>3.0.2</jsr305.version>
         <kotlin.version>1.7.10</kotlin.version>
         <liquibase.version>4.16.1</liquibase.version>
+        <logback-access.version>1.4.1</logback-access.version>
         <logback-classic.version>1.4.1</logback-classic.version>
         <logback-core.version>1.4.1</logback-core.version>
         <logstash.version>7.2</logstash.version>
@@ -519,6 +520,12 @@
                 <groupId>org.liquibase</groupId>
                 <artifactId>liquibase-core</artifactId>
                 <version>${liquibase.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>ch.qos.logback</groupId>
+                <artifactId>logback-access</artifactId>
+                <version>${logback-access.version}</version>
             </dependency>
 
             <dependency>
