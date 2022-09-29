@@ -91,7 +91,7 @@
         <postgresql.version>42.5.0</postgresql.version>
         <servo-core.version>0.13.2</servo-core.version>
         <snakeyaml.version>1.33</snakeyaml.version>
-        <slf4j-api.version>2.0.2</slf4j-api.version>
+        <slf4j-api.version>2.0.3</slf4j-api.version>
         <spring.version>5.3.23</spring.version>
         <spring-data-commons.version>2.7.3</spring-data-commons.version>
         <spring-data-mongodb.version>3.4.3</spring-data-mongodb.version>
