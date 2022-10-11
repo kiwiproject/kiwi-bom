@@ -86,7 +86,7 @@
         <mongodb-driver-sync.version>4.7.2</mongodb-driver-sync.version>
         <mongo-java-driver.version>3.12.11</mongo-java-driver.version>
         <mongo-java-server.version>1.41.0</mongo-java-server.version>
-        <netty.version>4.1.82.Final</netty.version>
+        <netty.version>4.1.83.Final</netty.version>
         <okhttp.version>4.10.0</okhttp.version>
         <postgresql.version>42.5.0</postgresql.version>
         <servo-core.version>0.13.2</servo-core.version>
