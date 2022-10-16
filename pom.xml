@@ -34,7 +34,6 @@
         <caffeine.version>3.1.1</caffeine.version>
         <checker-qual.version>3.26.0</checker-qual.version>
         <classmate.version>1.5.1</classmate.version>
-        <commons-configuration.version>1.10</commons-configuration.version>
         <commons-codec.version>1.15</commons-codec.version>
         <commons-io.version>2.11.0</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
@@ -170,12 +169,6 @@
                 <groupId>commons-codec</groupId>
                 <artifactId>commons-codec</artifactId>
                 <version>${commons-codec.version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>commons-configuration</groupId>
-                <artifactId>commons-configuration</artifactId>
-                <version>${commons-configuration.version}</version>
             </dependency>
 
             <dependency>
