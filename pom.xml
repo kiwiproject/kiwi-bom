@@ -46,7 +46,7 @@
         <embed.mongo.version>3.5.3</embed.mongo.version>
         <embed.mongo.packageresolver.version>1.0.13</embed.mongo.packageresolver.version>
         <embed.mongo.os.version>1.2.4</embed.mongo.os.version>
-        <embed.mongo.process.version>3.2.8</embed.mongo.process.version>
+        <embed.mongo.process.version>4.3.0</embed.mongo.process.version>
         <embedded-consul.version>2.2.1</embedded-consul.version>
         <embedded-postgres.version>2.0.2</embedded-postgres.version>
         <error-prone-annotations.version>2.16</error-prone-annotations.version>
