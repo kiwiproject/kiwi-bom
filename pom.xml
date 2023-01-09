@@ -49,7 +49,7 @@
         <embed.mongo.process.version>3.2.8</embed.mongo.process.version>
         <embedded-consul.version>2.2.1</embedded-consul.version>
         <embedded-postgres.version>2.0.2</embedded-postgres.version>
-        <error-prone-annotations.version>2.17.0</error-prone-annotations.version>
+        <error-prone-annotations.version>2.18.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
         <fastinfoset.version>1.2.18</fastinfoset.version>
         <guava.version>31.1-jre</guava.version>
