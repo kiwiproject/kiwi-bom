@@ -27,7 +27,7 @@
     </scm>
 
     <properties>
-        <ant.version>1.10.12</ant.version>
+        <ant.version>1.10.13</ant.version>
         <archaius-core.version>0.7.7</archaius-core.version>
         <assertj-guava.version>3.24.1</assertj-guava.version>
         <byte-buddy.version>1.12.21</byte-buddy.version>
