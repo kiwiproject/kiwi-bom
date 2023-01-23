@@ -43,10 +43,6 @@
         <curator.version>5.4.0</curator.version>
         <dropwizard.version>2.1.4</dropwizard.version>
         <dropwizard.metrics.version>4.2.15</dropwizard.metrics.version>
-        <embed.mongo.version>3.5.3</embed.mongo.version>
-        <embed.mongo.packageresolver.version>1.0.13</embed.mongo.packageresolver.version>
-        <embed.mongo.os.version>1.2.4</embed.mongo.os.version>
-        <embed.mongo.process.version>3.2.8</embed.mongo.process.version>
         <embedded-consul.version>2.2.1</embedded-consul.version>
         <embedded-postgres.version>2.0.2</embedded-postgres.version>
         <error-prone-annotations.version>2.18.0</error-prone-annotations.version>
@@ -211,30 +207,6 @@
                 <groupId>org.apache.curator</groupId>
                 <artifactId>curator-test</artifactId>
                 <version>${curator.version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>de.flapdoodle.embed</groupId>
-                <artifactId>de.flapdoodle.embed.mongo</artifactId>
-                <version>${embed.mongo.version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>de.flapdoodle.embed</groupId>
-                <artifactId>de.flapdoodle.embed.mongo.packageresolver</artifactId>
-                <version>${embed.mongo.packageresolver.version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>de.flapdoodle</groupId>
-                <artifactId>de.flapdoodle.os</artifactId>
-                <version>${embed.mongo.os.version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>de.flapdoodle.embed</groupId>
-                <artifactId>de.flapdoodle.embed.process</artifactId>
-                <version>${embed.mongo.process.version}</version>
             </dependency>
 
             <dependency>
