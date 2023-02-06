@@ -62,7 +62,7 @@
         <jakarta.xml.bind-api.version>2.3.3</jakarta.xml.bind-api.version>
         <javassist.version>3.29.2-GA</javassist.version>
         <jaxb-api.version>2.3.1</jaxb-api.version>
-        <jaxws-rt.version>2.3.5</jaxws-rt.version>
+        <jaxws-rt.version>4.0.1</jaxws-rt.version>
         <jboss-logging.version>3.5.0.Final</jboss-logging.version>
         <jdbi3.version>3.37.0</jdbi3.version>
         <jersey.version>2.37</jersey.version>
