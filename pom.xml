@@ -96,7 +96,7 @@
         <stax-ex.version>1.8.3</stax-ex.version>
         <stax2-api.version>4.2.1</stax2-api.version>
         <woodstox-core.version>6.5.1</woodstox-core.version>
-        <zookeeper.version>3.8.1</zookeeper.version>
+        <zookeeper.version>3.8.2</zookeeper.version>
 
         <!-- Sonar properties -->
         <sonar.projectKey>kiwiproject_kiwi-bom</sonar.projectKey>
