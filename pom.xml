@@ -28,7 +28,7 @@
 
     <properties>
         <angus-activation.version>2.0.1</angus-activation.version>
-        <ant.version>1.10.13</ant.version>
+        <ant.version>1.10.14</ant.version>
         <archaius-core.version>0.7.7</archaius-core.version>
         <assertj-guava.version>3.24.2</assertj-guava.version>
         <byte-buddy.version>1.14.6</byte-buddy.version>
