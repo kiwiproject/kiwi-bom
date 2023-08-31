@@ -51,7 +51,7 @@
         <guava.version>32.1.2-jre</guava.version>
         <h2.version>2.2.220</h2.version>
         <hamcrest.version>2.2</hamcrest.version>
-        <hibernate.version>6.2.7.Final</hibernate.version>
+        <hibernate.version>6.3.0.Final</hibernate.version>
         <hibernate-validator.version>7.0.5.Final</hibernate-validator.version>
         <hk2.version>3.0.4</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
