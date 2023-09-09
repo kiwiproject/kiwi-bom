@@ -36,7 +36,7 @@
         <checker-qual.version>3.38.0</checker-qual.version>
         <classmate.version>1.5.1</classmate.version>
         <commons-codec.version>1.16.0</commons-codec.version>
-        <commons-compress.version>1.23.0</commons-compress.version>
+        <commons-compress.version>1.24.0</commons-compress.version>
         <commons-io.version>2.13.0</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
         <commons-lang3.version>3.13.0</commons-lang3.version>
