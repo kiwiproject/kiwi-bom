@@ -49,7 +49,7 @@
         <eureka.version>1.10.18</eureka.version>
         <fastinfoset.version>2.1.0</fastinfoset.version>
         <guava.version>32.1.2-jre</guava.version>
-        <h2.version>2.2.222</h2.version>
+        <h2.version>2.2.224</h2.version>
         <hamcrest.version>2.2</hamcrest.version>
         <hibernate.version>6.3.0.Final</hibernate.version>
         <hibernate-validator.version>7.0.5.Final</hibernate-validator.version>
