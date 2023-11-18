@@ -59,7 +59,7 @@
         <httpclient5.version>5.2.1</httpclient5.version>
         <httpcore.version>4.4.16</httpcore.version>
         <httpcore5.version>5.2.3</httpcore5.version>
-        <jackson.version>2.15.3</jackson.version>
+        <jackson.version>2.16.0</jackson.version>
         <jakarta.annotation-api.version>2.1.1</jakarta.annotation-api.version>
         <jakarta.activation-api.version>2.1.2</jakarta.activation-api.version>
         <jakarta.activation-api.sun.version>2.0.1</jakarta.activation-api.sun.version>
