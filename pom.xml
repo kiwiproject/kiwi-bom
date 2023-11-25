@@ -45,7 +45,7 @@
         <curator.version>5.5.0</curator.version>
         <dropwizard.version>4.0.4</dropwizard.version>
         <dropwizard.metrics.version>4.2.22</dropwizard.metrics.version>
-        <embedded-postgres.version>2.0.4</embedded-postgres.version>
+        <embedded-postgres.version>2.0.5</embedded-postgres.version>
         <error-prone-annotations.version>2.23.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
