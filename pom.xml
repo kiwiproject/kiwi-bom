@@ -85,7 +85,7 @@
         <liquibase.version>4.25.0</liquibase.version>
         <logback-access.version>1.4.12</logback-access.version>
         <logback-classic.version>1.4.11</logback-classic.version>
-        <logback-core.version>1.4.11</logback-core.version>
+        <logback-core.version>1.4.12</logback-core.version>
         <logstash.version>7.4</logstash.version>
         <mongodb-driver-core.version>4.11.1</mongodb-driver-core.version>
         <mongodb-driver-reactivestreams.version>4.11.1</mongodb-driver-reactivestreams.version>
