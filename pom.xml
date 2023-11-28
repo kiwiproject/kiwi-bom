@@ -84,7 +84,7 @@
         <kotlin.version>1.9.21</kotlin.version>
         <liquibase.version>4.25.0</liquibase.version>
         <logback-access.version>1.4.12</logback-access.version>
-        <logback-classic.version>1.4.12</logback-classic.version>
+        <logback-classic.version>1.4.13</logback-classic.version>
         <logback-core.version>1.4.12</logback-core.version>
         <logstash.version>7.4</logstash.version>
         <mongodb-driver-core.version>4.11.1</mongodb-driver-core.version>
