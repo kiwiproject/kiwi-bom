@@ -103,7 +103,7 @@
         <spring-data-mongodb.version>4.2.2</spring-data-mongodb.version>
         <stax-ex.version>2.1.0</stax-ex.version>
         <stax2-api.version>4.2.2</stax2-api.version>
-        <test-containers.version>1.19.3</test-containers.version>
+        <test-containers.version>1.19.4</test-containers.version>
         <woodstox-core.version>6.5.1</woodstox-core.version>
         <zookeeper.version>3.9.1</zookeeper.version>
 
