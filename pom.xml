@@ -73,7 +73,7 @@
         <jaxb-api.version>2.3.1</jaxb-api.version>
         <jaxws-rt.version>4.0.2</jaxws-rt.version>
         <jboss-logging.version>3.5.3.Final</jboss-logging.version>
-        <jdbi3.version>3.44.0</jdbi3.version>
+        <jdbi3.version>3.44.1</jdbi3.version>
         <jersey.version>3.0.12</jersey.version>
         <jetbrains-annotations.version>24.1.0</jetbrains-annotations.version>
         <jetty.version>11.0.20</jetty.version>
