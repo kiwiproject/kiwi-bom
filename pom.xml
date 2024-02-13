@@ -82,7 +82,7 @@
         <jsch.version>0.1.55</jsch.version>
         <jsr305.version>3.0.2</jsr305.version>
         <kotlin.version>1.9.22</kotlin.version>
-        <liquibase.version>4.25.1</liquibase.version>
+        <liquibase.version>4.26.0</liquibase.version>
         <logback-access.version>1.4.14</logback-access.version>
         <logback-classic.version>1.4.14</logback-classic.version>
         <logback-core.version>1.4.14</logback-core.version>
