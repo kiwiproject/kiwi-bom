@@ -49,7 +49,7 @@
         <error-prone-annotations.version>2.26.1</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
-        <guava.version>33.0.0-jre</guava.version>
+        <guava.version>33.1.0-jre</guava.version>
         <h2.version>2.2.224</h2.version>
         <hamcrest.version>2.2</hamcrest.version>
         <hibernate.version>6.4.4.Final</hibernate.version>
