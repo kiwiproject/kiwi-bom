@@ -106,7 +106,7 @@
         <stax-ex.version>2.1.0</stax-ex.version>
         <stax2-api.version>4.2.2</stax2-api.version>
         <test-containers.version>1.19.8</test-containers.version>
-        <woodstox-core.version>6.6.2</woodstox-core.version>
+        <woodstox-core.version>7.0.0</woodstox-core.version>
         <zookeeper.version>3.9.2</zookeeper.version>
 
         <!-- Sonar properties -->
