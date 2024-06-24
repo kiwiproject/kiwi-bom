@@ -80,7 +80,7 @@
         <jetbrains-annotations.version>24.1.0</jetbrains-annotations.version>
         <jetty.version>11.0.21</jetty.version>
         <joda-time.version>2.12.7</joda-time.version>
-        <jsonassert.version>1.5.1</jsonassert.version>
+        <jsonassert.version>1.5.2</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
         <jsr305.version>3.0.2</jsr305.version>
         <kotlin.version>2.0.0</kotlin.version>
