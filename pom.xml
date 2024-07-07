@@ -78,7 +78,7 @@
         <jdbi3.version>3.45.2</jdbi3.version>
         <jersey.version>3.0.14</jersey.version>
         <jetbrains-annotations.version>24.1.0</jetbrains-annotations.version>
-        <jetty.version>11.0.21</jetty.version>
+        <jetty.version>11.0.22</jetty.version>
         <joda-time.version>2.12.7</joda-time.version>
         <jsonassert.version>1.5.3</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
