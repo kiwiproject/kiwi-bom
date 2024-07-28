@@ -85,7 +85,8 @@
         <jsr305.version>3.0.2</jsr305.version>
         <kotlin.version>2.0.0</kotlin.version>
         <liquibase.version>4.29.0</liquibase.version>
-        <logback-access.version>1.4.14</logback-access.version>
+        <logback-access-1_x.version>1.4.14</logback-access-1_x.version>
+        <logback-access-2_x.version>2.0.2</logback-access-2_x.version>
         <logback-classic.version>1.5.6</logback-classic.version>
         <logback-core.version>1.5.6</logback-core.version>
         <logstash.version>7.4</logstash.version>
@@ -527,10 +528,30 @@
                 <version>${liquibase.version}</version>
             </dependency>
 
+            <!-- 1.x version of logback-access (legacy version) -->
             <dependency>
                 <groupId>ch.qos.logback</groupId>
                 <artifactId>logback-access</artifactId>
-                <version>${logback-access.version}</version>
+                <version>${logback-access-1_x.version}</version>
+            </dependency>
+
+            <!-- 2.x version of logback-access (new version, supports jetty 11 and higher -->
+            <dependency>
+                <groupId>ch.qos.logback.access</groupId>
+                <artifactId>common</artifactId>
+                <version>${logback-access-2_x.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>ch.qos.logback.access</groupId>
+                <artifactId>jetty11</artifactId>
+                <version>${logback-access-2_x.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>ch.qos.logback.access</groupId>
+                <artifactId>jetty12</artifactId>
+                <version>${logback-access-2_x.version}</version>
             </dependency>
 
             <dependency>
