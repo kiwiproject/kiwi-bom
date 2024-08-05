@@ -75,7 +75,7 @@
         <jaxb.glassfish.version>4.0.5</jaxb.glassfish.version>
         <jaxws-rt.version>4.0.2</jaxws-rt.version>
         <jboss-logging.version>3.6.0.Final</jboss-logging.version>
-        <jdbi3.version>3.45.2</jdbi3.version>
+        <jdbi3.version>3.45.3</jdbi3.version>
         <jersey.version>3.0.14</jersey.version>
         <jetbrains-annotations.version>24.1.0</jetbrains-annotations.version>
         <jetty.version>11.0.22</jetty.version>
