@@ -79,7 +79,7 @@
         <jersey.version>3.0.15</jersey.version>
         <jetbrains-annotations.version>24.1.0</jetbrains-annotations.version>
         <jetty.version>11.0.24</jetty.version>
-        <joda-time.version>2.12.7</joda-time.version>
+        <joda-time.version>2.13.0</joda-time.version>
         <jsonassert.version>1.5.3</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
         <jsr305.version>3.0.2</jsr305.version>
