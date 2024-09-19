@@ -47,7 +47,7 @@
         <dropwizard.version>4.0.8</dropwizard.version>
         <dropwizard.metrics.version>4.2.27</dropwizard.metrics.version>
         <embedded-postgres.version>2.0.7</embedded-postgres.version>
-        <error-prone-annotations.version>2.31.0</error-prone-annotations.version>
+        <error-prone-annotations.version>2.32.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
         <guava.version>33.3.0-jre</guava.version>
