@@ -88,7 +88,7 @@
         <logback-access-1_x.version>1.4.14</logback-access-1_x.version>
         <logback-access-2_x.version>2.0.3</logback-access-2_x.version>
         <logback-classic.version>1.5.10</logback-classic.version>
-        <logback-core.version>1.5.10</logback-core.version>
+        <logback-core.version>1.5.11</logback-core.version>
         <logstash.version>8.0</logstash.version>
         <mongodb-driver-core.version>5.2.0</mongodb-driver-core.version>
         <mongodb-driver-reactivestreams.version>5.2.0</mongodb-driver-reactivestreams.version>
