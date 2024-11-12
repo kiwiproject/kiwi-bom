@@ -91,7 +91,7 @@
         <logback-core.version>1.5.12</logback-core.version>
         <logstash.version>8.0</logstash.version>
         <mongodb-driver-core.version>5.2.1</mongodb-driver-core.version>
-        <mongodb-driver-reactivestreams.version>5.2.0</mongodb-driver-reactivestreams.version>
+        <mongodb-driver-reactivestreams.version>5.2.1</mongodb-driver-reactivestreams.version>
         <mongodb-driver-sync.version>5.2.0</mongodb-driver-sync.version>
         <mongo-java-driver.version>3.12.14</mongo-java-driver.version>
         <mongo-java-server.version>1.45.0</mongo-java-server.version>
