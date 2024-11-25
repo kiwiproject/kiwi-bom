@@ -15,6 +15,9 @@ updates:
         update-types:
           - "minor"
           - "patch"
+        exclude-patterns:
+          - "jersey-bom"
+          - "jakarta.validation-api"
     assignees:
       - "sleberknight"
       - "chrisrohr"
