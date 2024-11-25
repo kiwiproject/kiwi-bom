@@ -16,8 +16,8 @@ updates:
           - "minor"
           - "patch"
         exclude-patterns:
-          - "jersey-bom"
-          - "jakarta.validation-api"
+          - "org.glassfish.jersey:*"
+          - "jakarta.validation:jakarta.validation-api"
     assignees:
       - "sleberknight"
       - "chrisrohr"
