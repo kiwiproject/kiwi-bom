@@ -30,7 +30,7 @@
         <angus-activation.version>2.0.2</angus-activation.version>
         <ant.version>1.10.15</ant.version>
         <archaius-core.version>0.7.12</archaius-core.version>
-        <assertj-guava.version>3.26.3</assertj-guava.version>
+        <assertj-guava.version>3.27.0</assertj-guava.version>
         <byte-buddy.version>1.15.11</byte-buddy.version>
         <caffeine.version>3.1.8</caffeine.version>
         <checker-qual.version>3.48.3</checker-qual.version>
@@ -53,7 +53,7 @@
         <guava.version>33.4.0-jre</guava.version>
         <h2.version>2.3.232</h2.version>
         <hamcrest.version>3.0</hamcrest.version>
-        <hibernate.version>6.6.3.Final</hibernate.version>
+        <hibernate.version>6.6.4.Final</hibernate.version>
         <hibernate-validator.version>7.0.5.Final</hibernate-validator.version>
         <hk2.version>3.1.1</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
@@ -87,15 +87,15 @@
         <liquibase.version>4.30.0</liquibase.version>
         <logback-access-1_x.version>1.4.14</logback-access-1_x.version>
         <logback-access-2_x.version>2.0.3</logback-access-2_x.version>
-        <logback-classic.version>1.5.12</logback-classic.version>
-        <logback-core.version>1.5.13</logback-core.version>
+        <logback-classic.version>1.5.15</logback-classic.version>
+        <logback-core.version>1.5.15</logback-core.version>
         <logstash.version>8.0</logstash.version>
         <mongodb-driver-core.version>5.2.1</mongodb-driver-core.version>
         <mongodb-driver-reactivestreams.version>5.2.1</mongodb-driver-reactivestreams.version>
         <mongodb-driver-sync.version>5.2.1</mongodb-driver-sync.version>
         <mongo-java-driver.version>3.12.14</mongo-java-driver.version>
         <mongo-java-server.version>1.45.0</mongo-java-server.version>
-        <netty.version>4.1.115.Final</netty.version>
+        <netty.version>4.1.116.Final</netty.version>
         <okhttp.version>4.12.0</okhttp.version>
         <postgresql.version>42.7.4</postgresql.version>
         <servo-core.version>0.13.2</servo-core.version>
