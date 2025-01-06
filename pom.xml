@@ -30,12 +30,12 @@
         <angus-activation.version>2.0.2</angus-activation.version>
         <ant.version>1.10.15</ant.version>
         <archaius-core.version>0.7.12</archaius-core.version>
-        <assertj-guava.version>3.27.1</assertj-guava.version>
+        <assertj-guava.version>3.27.2</assertj-guava.version>
         <byte-buddy.version>1.15.11</byte-buddy.version>
         <caffeine.version>3.1.8</caffeine.version>
         <checker-qual.version>3.48.4</checker-qual.version>
         <classmate.version>1.7.0</classmate.version>
-        <commons-codec.version>1.17.1</commons-codec.version>
+        <commons-codec.version>1.17.2</commons-codec.version>
         <commons-collections4.version>4.4</commons-collections4.version>
         <commons-compress.version>1.27.1</commons-compress.version>
         <commons-io.version>2.18.0</commons-io.version>
@@ -87,8 +87,8 @@
         <liquibase.version>4.30.0</liquibase.version>
         <logback-access-1_x.version>1.4.14</logback-access-1_x.version>
         <logback-access-2_x.version>2.0.3</logback-access-2_x.version>
-        <logback-classic.version>1.5.12</logback-classic.version>
-        <logback-core.version>1.5.12</logback-core.version>
+        <logback-classic.version>1.5.16</logback-classic.version>
+        <logback-core.version>1.5.16</logback-core.version>
         <logstash.version>8.0</logstash.version>
         <mongodb-driver-core.version>5.2.1</mongodb-driver-core.version>
         <mongodb-driver-reactivestreams.version>5.2.1</mongodb-driver-reactivestreams.version>
