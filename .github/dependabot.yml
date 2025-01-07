@@ -18,6 +18,7 @@ updates:
         exclude-patterns:
           - "org.glassfish.jersey:*"
           - "jakarta.validation:jakarta.validation-api"
+          - "ch.qos.logback:*"
     assignees:
       - "sleberknight"
       - "chrisrohr"
