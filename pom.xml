@@ -538,7 +538,7 @@
             <!-- 2.x version of logback-access (new version, supports jetty 11 and higher -->
             <dependency>
                 <groupId>ch.qos.logback.access</groupId>
-                <artifactId>common</artifactId>
+                <artifactId>logback-access-common</artifactId>
                 <version>${logback-access-2_x.version}</version>
             </dependency>
 
