@@ -544,13 +544,13 @@
 
             <dependency>
                 <groupId>ch.qos.logback.access</groupId>
-                <artifactId>jetty11</artifactId>
+                <artifactId>logback-access-jetty11</artifactId>
                 <version>${logback-access-2_x.version}</version>
             </dependency>
 
             <dependency>
                 <groupId>ch.qos.logback.access</groupId>
-                <artifactId>jetty12</artifactId>
+                <artifactId>logback-access-jetty12</artifactId>
                 <version>${logback-access-2_x.version}</version>
             </dependency>
 
