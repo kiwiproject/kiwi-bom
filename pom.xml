@@ -31,7 +31,7 @@
         <ant.version>1.10.15</ant.version>
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj-guava.version>3.27.3</assertj-guava.version>
-        <byte-buddy.version>1.17.4</byte-buddy.version>
+        <byte-buddy.version>1.17.5</byte-buddy.version>
         <caffeine.version>3.2.0</caffeine.version>
         <checker-qual.version>3.49.1</checker-qual.version>
         <classmate.version>1.7.0</classmate.version>
@@ -53,7 +53,7 @@
         <guava.version>33.4.6-jre</guava.version>
         <h2.version>2.3.232</h2.version>
         <hamcrest.version>3.0</hamcrest.version>
-        <hibernate.version>6.6.11.Final</hibernate.version>
+        <hibernate.version>6.6.12.Final</hibernate.version>
         <hibernate-validator.version>7.0.5.Final</hibernate-validator.version>
         <hk2.version>3.1.1</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
@@ -79,7 +79,7 @@
         <jersey.version>3.0.17</jersey.version>
         <jetbrains-annotations.version>26.0.2</jetbrains-annotations.version>
         <jetty.version>11.0.25</jetty.version>
-        <joda-time.version>2.13.1</joda-time.version>
+        <joda-time.version>2.14.0</joda-time.version>
         <jsonassert.version>1.5.3</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
         <jsr305.version>3.0.2</jsr305.version>
