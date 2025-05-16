@@ -53,7 +53,7 @@
         <guava.version>33.4.8-jre</guava.version>
         <h2.version>2.3.232</h2.version>
         <hamcrest.version>3.0</hamcrest.version>
-        <hibernate.version>6.6.14.Final</hibernate.version>
+        <hibernate.version>6.6.15.Final</hibernate.version>
         <hibernate-validator.version>7.0.5.Final</hibernate-validator.version>
         <hk2.version>3.1.1</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
@@ -83,7 +83,7 @@
         <jsonassert.version>1.5.3</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
         <jsr305.version>3.0.2</jsr305.version>
-        <kotlin.version>2.1.20</kotlin.version>
+        <kotlin.version>2.1.21</kotlin.version>
         <liquibase.version>4.31.1</liquibase.version>
         <logback-access.version>2.0.6</logback-access.version>
         <logback-classic.version>1.5.18</logback-classic.version>
@@ -100,9 +100,9 @@
         <servo-core.version>0.13.2</servo-core.version>
         <snakeyaml.version>2.4</snakeyaml.version>
         <slf4j.version>2.0.17</slf4j.version>
-        <spring.version>6.2.6</spring.version>
-        <spring-data-commons.version>3.4.5</spring-data-commons.version>
-        <spring-data-mongodb.version>4.4.5</spring-data-mongodb.version>
+        <spring.version>6.2.7</spring.version>
+        <spring-data-commons.version>3.5.0</spring-data-commons.version>
+        <spring-data-mongodb.version>4.5.0</spring-data-mongodb.version>
         <stax-ex.version>2.1.0</stax-ex.version>
         <stax2-api.version>4.2.2</stax2-api.version>
         <test-containers.version>1.21.0</test-containers.version>
