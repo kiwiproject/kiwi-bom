@@ -33,7 +33,7 @@
         <assertj-guava.version>3.27.3</assertj-guava.version>
         <byte-buddy.version>1.17.5</byte-buddy.version>
         <caffeine.version>3.2.0</caffeine.version>
-        <checker-qual.version>3.49.3</checker-qual.version>
+        <checker-qual.version>3.49.4</checker-qual.version>
         <classmate.version>1.7.0</classmate.version>
         <commons-codec.version>1.18.0</commons-codec.version>
         <commons-collections4.version>4.5.0</commons-collections4.version>
@@ -106,8 +106,8 @@
         <spring-data-mongodb.version>4.5.0</spring-data-mongodb.version>
         <stax-ex.version>2.1.0</stax-ex.version>
         <stax2-api.version>4.2.2</stax2-api.version>
-        <test-containers.version>1.21.0</test-containers.version>
-        <woodstox-core.version>7.1.0</woodstox-core.version>
+        <test-containers.version>1.21.1</test-containers.version>
+        <woodstox-core.version>7.1.1</woodstox-core.version>
         <zookeeper.version>3.9.3</zookeeper.version>
 
         <!-- Sonar properties -->
