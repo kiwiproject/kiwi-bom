@@ -32,7 +32,7 @@
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj-guava.version>3.27.3</assertj-guava.version>
         <byte-buddy.version>1.17.5</byte-buddy.version>
-        <caffeine.version>3.2.0</caffeine.version>
+        <caffeine.version>3.2.1</caffeine.version>
         <checker-qual.version>3.49.4</checker-qual.version>
         <classmate.version>1.7.0</classmate.version>
         <commons-codec.version>1.18.0</commons-codec.version>
@@ -90,12 +90,12 @@
         <logback-classic.version>1.5.18</logback-classic.version>
         <logback-core.version>1.5.18</logback-core.version>
         <logstash.version>8.1</logstash.version>
-        <mongodb-driver-core.version>5.5.0</mongodb-driver-core.version>
-        <mongodb-driver-reactivestreams.version>5.5.0</mongodb-driver-reactivestreams.version>
-        <mongodb-driver-sync.version>5.5.0</mongodb-driver-sync.version>
+        <mongodb-driver-core.version>5.5.1</mongodb-driver-core.version>
+        <mongodb-driver-reactivestreams.version>5.5.1</mongodb-driver-reactivestreams.version>
+        <mongodb-driver-sync.version>5.5.1</mongodb-driver-sync.version>
         <mongo-java-driver.version>3.12.14</mongo-java-driver.version>
         <mongo-java-server.version>1.46.0</mongo-java-server.version>
-        <netty.version>4.2.1.Final</netty.version>
+        <netty.version>4.2.2.Final</netty.version>
         <okhttp.version>4.12.0</okhttp.version>
         <postgresql.version>42.7.6</postgresql.version>
         <servo-core.version>0.13.2</servo-core.version>
