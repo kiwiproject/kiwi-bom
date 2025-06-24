@@ -45,7 +45,7 @@
         <commons-text.version>1.13.1</commons-text.version>
         <curator.version>5.8.0</curator.version>
         <dropwizard.version>4.0.14</dropwizard.version>
-        <dropwizard.metrics.version>4.2.32</dropwizard.metrics.version>
+        <dropwizard.metrics.version>4.2.33</dropwizard.metrics.version>
         <embedded-postgres.version>2.1.0</embedded-postgres.version>
         <error-prone-annotations.version>2.38.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
@@ -84,7 +84,7 @@
         <jsch.version>0.1.55</jsch.version>
         <jspecify.version>1.0.0</jspecify.version>
         <jsr305.version>3.0.2</jsr305.version>
-        <kotlin.version>2.1.21</kotlin.version>
+        <kotlin.version>2.2.0</kotlin.version>
         <liquibase.version>4.32.0</liquibase.version>
         <logback-access.version>2.0.6</logback-access.version>
         <logback-classic.version>1.5.18</logback-classic.version>
@@ -94,7 +94,7 @@
         <mongodb-driver-reactivestreams.version>5.5.1</mongodb-driver-reactivestreams.version>
         <mongodb-driver-sync.version>5.5.1</mongodb-driver-sync.version>
         <mongo-java-driver.version>3.12.14</mongo-java-driver.version>
-        <mongo-java-server.version>1.46.0</mongo-java-server.version>
+        <mongo-java-server.version>1.47.0</mongo-java-server.version>
         <netty.version>4.2.2.Final</netty.version>
         <okhttp.version>4.12.0</okhttp.version>
         <postgresql.version>42.7.7</postgresql.version>
@@ -106,7 +106,7 @@
         <spring-data-mongodb.version>4.5.1</spring-data-mongodb.version>
         <stax-ex.version>2.1.0</stax-ex.version>
         <stax2-api.version>4.2.2</stax2-api.version>
-        <test-containers.version>1.21.1</test-containers.version>
+        <test-containers.version>1.21.2</test-containers.version>
         <woodstox-core.version>7.1.1</woodstox-core.version>
         <zookeeper.version>3.9.3</zookeeper.version>
 
