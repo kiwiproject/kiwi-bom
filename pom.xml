@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.kiwiproject</groupId>
         <artifactId>kiwi-parent</artifactId>
-        <version>3.0.26</version>
+        <version>3.0.27</version>
     </parent>
 
     <artifactId>kiwi-bom</artifactId>
@@ -47,7 +47,7 @@
         <dropwizard.version>4.0.14</dropwizard.version>
         <dropwizard.metrics.version>4.2.33</dropwizard.metrics.version>
         <embedded-postgres.version>2.1.0</embedded-postgres.version>
-        <error-prone-annotations.version>2.39.0</error-prone-annotations.version>
+        <error-prone-annotations.version>2.40.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
         <guava.version>33.4.8-jre</guava.version>
@@ -85,7 +85,7 @@
         <jspecify.version>1.0.0</jspecify.version>
         <jsr305.version>3.0.2</jsr305.version>
         <kotlin.version>2.2.0</kotlin.version>
-        <liquibase.version>4.32.0</liquibase.version>
+        <liquibase.version>4.33.0</liquibase.version>
         <logback-access.version>2.0.6</logback-access.version>
         <logback-classic.version>1.5.18</logback-classic.version>
         <logback-core.version>1.5.18</logback-core.version>
