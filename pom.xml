@@ -163,8 +163,10 @@
 
             <dependency>
                 <groupId>net.bytebuddy</groupId>
-                <artifactId>byte-buddy</artifactId>
+                <artifactId>byte-buddy-parent</artifactId>
                 <version>${byte-buddy.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
             </dependency>
 
             <dependency>
