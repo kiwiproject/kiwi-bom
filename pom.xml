@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>kiwi-bom</artifactId>
-    <version>2.0.27</version>
+    <version>2.0.28-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
@@ -23,7 +23,7 @@
         <connection>scm:git:https://github.com/kiwiproject/kiwi-bom.git</connection>
         <developerConnection>scm:git:git@github.com:kiwiproject/kiwi-bom.git</developerConnection>
         <url>https://github.com/kiwiproject/kiwi-bom</url>
-        <tag>v2.0.27</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
