@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.kiwiproject</groupId>
         <artifactId>kiwi-parent</artifactId>
-        <version>3.0.29</version>
+        <version>3.0.30</version>
     </parent>
 
     <artifactId>kiwi-bom</artifactId>
@@ -33,7 +33,7 @@
         <assertj.version>3.27.4</assertj.version>
         <byte-buddy.version>1.17.7</byte-buddy.version>
         <caffeine.version>3.2.2</caffeine.version>
-        <checker-qual.version>3.49.5</checker-qual.version>
+        <checker-qual.version>3.50.0</checker-qual.version>
         <classmate.version>1.7.0</classmate.version>
         <commons-codec.version>1.19.0</commons-codec.version>
         <commons-collections4.version>4.5.0</commons-collections4.version>
@@ -44,7 +44,7 @@
         <commons-text.version>1.14.0</commons-text.version>
         <curator.version>5.9.0</curator.version>
         <dropwizard.version>4.0.16</dropwizard.version>
-        <dropwizard.metrics.version>4.2.34</dropwizard.metrics.version>
+        <dropwizard.metrics.version>4.2.35</dropwizard.metrics.version>
         <embedded-postgres.version>2.1.1</embedded-postgres.version>
         <error-prone-annotations.version>2.41.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
@@ -58,8 +58,8 @@
         <httpclient.version>4.5.14</httpclient.version>
         <httpclient5.version>5.5</httpclient5.version>
         <httpcore.version>4.4.16</httpcore.version>
-        <httpcore5.version>5.3.4</httpcore5.version>
-        <jackson.version>2.19.2</jackson.version>
+        <httpcore5.version>5.3.5</httpcore5.version>
+        <jackson.version>2.20.0</jackson.version>
         <jakarta.annotation-api.version>2.1.1</jakarta.annotation-api.version>
         <jakarta.activation-api.version>2.1.3</jakarta.activation-api.version>
         <jakarta.activation-api.sun.version>2.0.1</jakarta.activation-api.sun.version>
@@ -97,7 +97,7 @@
         <okio.version>3.16.0</okio.version>
         <postgresql.version>42.7.7</postgresql.version>
         <servo-core.version>0.13.2</servo-core.version>
-        <snakeyaml.version>2.4</snakeyaml.version>
+        <snakeyaml.version>2.5</snakeyaml.version>
         <slf4j.version>2.0.17</slf4j.version>
         <spring.version>6.2.10</spring.version>
         <spring-data-bom.version>2025.0.3</spring-data-bom.version>
@@ -105,7 +105,7 @@
         <stax2-api.version>4.2.2</stax2-api.version>
         <test-containers.version>1.21.3</test-containers.version>
         <woodstox-core.version>7.1.1</woodstox-core.version>
-        <zookeeper.version>3.9.3</zookeeper.version>
+        <zookeeper.version>3.9.4</zookeeper.version>
 
         <!-- Sonar properties -->
         <sonar.projectKey>kiwiproject_kiwi-bom</sonar.projectKey>
