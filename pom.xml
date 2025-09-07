@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.kiwiproject</groupId>
         <artifactId>kiwi-parent</artifactId>
-        <version>3.0.30</version>
+        <version>3.0.31</version>
     </parent>
 
     <artifactId>kiwi-bom</artifactId>
@@ -95,7 +95,7 @@
         <mongodb-driver-bom.version>5.5.1</mongodb-driver-bom.version>
         <mongo-java-driver-deprecated.version>3.12.14</mongo-java-driver-deprecated.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
-        <netty.version>4.2.4.Final</netty.version>
+        <netty.version>4.2.5.Final</netty.version>
         <okhttp.version>4.12.0</okhttp.version>
         <okio.version>3.16.0</okio.version>
         <postgresql.version>42.7.7</postgresql.version>
