@@ -87,7 +87,7 @@
         <jspecify.version>1.0.0</jspecify.version>
         <jsr305.version>3.0.2</jsr305.version>
         <kotlin.version>2.2.20</kotlin.version>
-        <liquibase.version>4.33.0</liquibase.version>
+        <liquibase.version>5.0.1</liquibase.version>
         <logback-access.version>2.0.6</logback-access.version>
         <logback-classic.version>1.5.18</logback-classic.version>
         <logback-core.version>1.5.18</logback-core.version>
