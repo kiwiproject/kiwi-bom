@@ -93,7 +93,6 @@
         <logback-core.version>1.5.19</logback-core.version>
         <logstash.version>8.1</logstash.version>
         <mongodb-driver-bom.version>5.6.1</mongodb-driver-bom.version>
-        <mongo-java-driver-deprecated.version>3.12.14</mongo-java-driver-deprecated.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
         <netty.version>4.2.6.Final</netty.version>
         <okhttp.version>4.12.0</okhttp.version>
@@ -602,17 +601,6 @@
                 <version>${mongodb-driver-bom.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
-            </dependency>
-
-            <!-- DEPRECATED: This dependency will be removed in a future release. -->
-            <!--
-                It is being deprecated and remains in this BOM in order to make
-                migration to the new Mongo drivers easier.
-            -->
-            <dependency>
-                <groupId>org.mongodb</groupId>
-                <artifactId>mongo-java-driver</artifactId>
-                <version>${mongo-java-driver-deprecated.version}</version>
             </dependency>
 
             <dependency>
