@@ -95,7 +95,7 @@
         <mongodb-driver-bom.version>5.6.1</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
         <netty.version>4.2.6.Final</netty.version>
-        <okhttp.version>4.12.0</okhttp.version>
+        <okhttp.version>5.2.1</okhttp.version>
         <okio.version>3.16.1</okio.version>
         <postgresql.version>42.7.8</postgresql.version>
         <servo-core.version>0.13.2</servo-core.version>
