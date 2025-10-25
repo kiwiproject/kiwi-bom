@@ -119,9 +119,8 @@
         <dependencies>
             <!--
                 This is a runtime dependency of jax-ws as well as saaj-impl (Jakarta SOAP with Attachments).
-                And, jaxws-rt has a runtime dependency on saaj-impl. As of jax-ws 4.0.1 there is a version conflict
-                between these two: jax-ws depends on version 2.0.0 but saaj-impl depends on 1.0.0, so we are
-                choosing to bind to 2.0.0 here, since jaxws-rt depends on the 2.0.0 version.
+                And, jaxws-rt has a runtime dependency on saaj-impl. To avoid dependency convergence errors,
+                we are managing the version here.
             -->
             <dependency>
                 <groupId>org.eclipse.angus</groupId>
