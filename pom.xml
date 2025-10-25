@@ -98,6 +98,7 @@
         <okhttp.version>5.2.1</okhttp.version>
         <okio.version>3.16.2</okio.version>
         <postgresql.version>42.7.8</postgresql.version>
+        <saaj-impl.version>3.0.4</saaj-impl.version>
         <servo-core.version>0.13.2</servo-core.version>
         <snakeyaml.version>2.5</snakeyaml.version>
         <slf4j.version>2.0.17</slf4j.version>
@@ -636,6 +637,12 @@
                 <groupId>org.postgresql</groupId>
                 <artifactId>postgresql</artifactId>
                 <version>${postgresql.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.sun.xml.messaging.saaj</groupId>
+                <artifactId>saaj-impl</artifactId>
+                <version>${saaj-impl.version}</version>
             </dependency>
 
             <dependency>
