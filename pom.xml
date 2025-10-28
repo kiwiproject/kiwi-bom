@@ -92,7 +92,7 @@
         <logback-access.version>2.0.6</logback-access.version>
         <logback-classic.version>1.5.20</logback-classic.version>
         <logback-core.version>1.5.20</logback-core.version>
-        <logstash.version>8.1</logstash.version>
+        <logstash.version>9.0</logstash.version>
         <mongodb-driver-bom.version>5.6.1</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
         <netty.version>4.2.7.Final</netty.version>
