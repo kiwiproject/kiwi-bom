@@ -34,7 +34,7 @@
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj.version>3.27.6</assertj.version>
         <byte-buddy.version>1.17.8</byte-buddy.version>
-        <caffeine.version>3.2.2</caffeine.version>
+        <caffeine.version>3.2.3</caffeine.version>
         <checker-qual.version>3.51.1</checker-qual.version>
         <classmate.version>1.7.1</classmate.version>
         <commons-codec.version>1.19.0</commons-codec.version>
@@ -49,7 +49,7 @@
         <dropwizard.version>4.0.16</dropwizard.version>
         <dropwizard.metrics.version>4.2.37</dropwizard.metrics.version>
         <embedded-postgres.version>2.1.1</embedded-postgres.version>
-        <error-prone-annotations.version>2.42.0</error-prone-annotations.version>
+        <error-prone-annotations.version>2.43.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
         <guava.version>33.5.0-jre</guava.version>
@@ -62,7 +62,7 @@
         <httpclient5.version>5.5.1</httpclient5.version>
         <httpcore.version>4.4.16</httpcore.version>
         <httpcore5.version>5.3.6</httpcore5.version>
-        <jackson.version>2.20.0</jackson.version>
+        <jackson.version>2.20.1</jackson.version>
         <jakarta.annotation-api.version>2.1.1</jakarta.annotation-api.version>
         <jakarta.activation-api.version>2.1.4</jakarta.activation-api.version>
         <jakarta.activation-api.sun.version>2.0.1</jakarta.activation-api.sun.version>
@@ -87,16 +87,16 @@
         <jsch.version>0.1.55</jsch.version>
         <jspecify.version>1.0.0</jspecify.version>
         <jsr305.version>3.0.2</jsr305.version>
-        <kotlin.version>2.2.20</kotlin.version>
+        <kotlin.version>2.2.21</kotlin.version>
         <liquibase.version>5.0.1</liquibase.version>
-        <logback-access.version>2.0.6</logback-access.version>
+        <logback-access.version>2.0.7</logback-access.version>
         <logback-classic.version>1.5.20</logback-classic.version>
         <logback-core.version>1.5.20</logback-core.version>
         <logstash.version>9.0</logstash.version>
         <mongodb-driver-bom.version>5.6.1</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
         <netty.version>4.2.7.Final</netty.version>
-        <okhttp.version>5.2.1</okhttp.version>
+        <okhttp.version>5.3.0</okhttp.version>
         <okio.version>3.16.2</okio.version>
         <postgresql.version>42.7.8</postgresql.version>
         <saaj-impl.version>3.0.4</saaj-impl.version>
