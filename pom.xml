@@ -104,7 +104,7 @@
         <snakeyaml.version>2.5</snakeyaml.version>
         <slf4j.version>2.0.17</slf4j.version>
         <spring.version>6.2.12</spring.version>
-        <spring-data-bom.version>2025.0.5</spring-data-bom.version>
+        <spring-data-bom.version>2025.1.0</spring-data-bom.version>
         <stax-ex.version>2.1.0</stax-ex.version>
         <stax2-api.version>4.2.2</stax2-api.version>
         <test-containers.version>2.0.2</test-containers.version>
