@@ -17,7 +17,7 @@ updates:
           - "patch"
         exclude-patterns:
           - "org.glassfish.jersey:*"
-          - "jakarta.servlet:jakarta.servlet-api:*"
+          - "jakarta.servlet:jakarta.servlet-api"
           - "jakarta.validation:jakarta.validation-api"
     assignees:
       - "sleberknight"
