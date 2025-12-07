@@ -35,7 +35,7 @@
         <assertj.version>3.27.6</assertj.version>
         <byte-buddy.version>1.18.2</byte-buddy.version>
         <caffeine.version>3.2.3</caffeine.version>
-        <checker-qual.version>3.52.0</checker-qual.version>
+        <checker-qual.version>3.52.1</checker-qual.version>
         <classmate.version>1.7.1</classmate.version>
         <commons-codec.version>1.20.0</commons-codec.version>
         <commons-collections4.version>4.5.0</commons-collections4.version>
@@ -44,7 +44,7 @@
         <commons-lang3.version>3.20.0</commons-lang3.version>
         <commons-logging.version>1.3.5</commons-logging.version>
         <commons-net.version>3.12.0</commons-net.version>
-        <commons-text.version>1.14.0</commons-text.version>
+        <commons-text.version>1.15.0</commons-text.version>
         <curator.version>5.9.0</curator.version>
         <dropwizard.version>4.0.16</dropwizard.version>
         <dropwizard.metrics.version>4.2.37</dropwizard.metrics.version>
@@ -104,7 +104,7 @@
         <snakeyaml.version>2.5</snakeyaml.version>
         <slf4j.version>2.0.17</slf4j.version>
         <spring.version>6.2.12</spring.version>
-        <spring-data-bom.version>2025.0.5</spring-data-bom.version>
+        <spring-data-bom.version>2025.1.0</spring-data-bom.version>
         <stax-ex.version>2.1.0</stax-ex.version>
         <stax2-api.version>4.2.2</stax2-api.version>
         <test-containers.version>2.0.2</test-containers.version>
