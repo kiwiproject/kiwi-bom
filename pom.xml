@@ -33,10 +33,10 @@
         <apiguardian-api.version>1.1.2</apiguardian-api.version>
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj.version>3.27.6</assertj.version>
-        <byte-buddy.version>1.18.2</byte-buddy.version>
+        <byte-buddy.version>1.18.3</byte-buddy.version>
         <caffeine.version>3.2.3</caffeine.version>
         <checker-qual.version>3.52.1</checker-qual.version>
-        <classmate.version>1.7.1</classmate.version>
+        <classmate.version>1.7.2</classmate.version>
         <commons-codec.version>1.20.0</commons-codec.version>
         <commons-collections4.version>4.5.0</commons-collections4.version>
         <commons-compress.version>1.28.0</commons-compress.version>
@@ -59,7 +59,7 @@
         <hibernate-validator.version>8.0.3.Final</hibernate-validator.version>
         <hk2.version>3.1.1</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
-        <httpclient5.version>5.5.1</httpclient5.version>
+        <httpclient5.version>5.6</httpclient5.version>
         <httpcore.version>4.4.16</httpcore.version>
         <httpcore5.version>5.4</httpcore5.version>
         <jackson.version>2.20.1</jackson.version>
@@ -88,11 +88,11 @@
         <jsch.version>0.1.55</jsch.version>
         <jspecify.version>1.0.0</jspecify.version>
         <jsr305.version>3.0.2</jsr305.version>
-        <kotlin.version>2.2.21</kotlin.version>
+        <kotlin.version>2.3.0</kotlin.version>
         <liquibase.version>5.0.1</liquibase.version>
         <logback-access.version>2.0.7</logback-access.version>
-        <logback-classic.version>1.5.22</logback-classic.version>
-        <logback-core.version>1.5.22</logback-core.version>
+        <logback-classic.version>1.5.23</logback-classic.version>
+        <logback-core.version>1.5.23</logback-core.version>
         <logstash.version>9.0</logstash.version>
         <mongodb-driver-bom.version>5.6.2</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
