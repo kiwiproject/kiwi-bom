@@ -35,7 +35,7 @@
         <assertj.version>3.27.6</assertj.version>
         <byte-buddy.version>1.18.3</byte-buddy.version>
         <caffeine.version>3.2.3</caffeine.version>
-        <checker-qual.version>3.52.1</checker-qual.version>
+        <checker-qual.version>3.53.0</checker-qual.version>
         <classmate.version>1.7.3</classmate.version>
         <commons-codec.version>1.20.0</commons-codec.version>
         <commons-collections4.version>4.5.0</commons-collections4.version>
@@ -91,8 +91,8 @@
         <kotlin.version>2.3.0</kotlin.version>
         <liquibase.version>5.0.1</liquibase.version>
         <logback-access.version>2.0.7</logback-access.version>
-        <logback-classic.version>1.5.23</logback-classic.version>
-        <logback-core.version>1.5.23</logback-core.version>
+        <logback-classic.version>1.5.24</logback-classic.version>
+        <logback-core.version>1.5.24</logback-core.version>
         <logstash.version>9.0</logstash.version>
         <mongodb-driver-bom.version>5.6.2</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
