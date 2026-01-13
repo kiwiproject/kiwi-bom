@@ -50,7 +50,7 @@
         <dropwizard.version>5.0.0</dropwizard.version>
         <dropwizard.metrics.version>4.2.37</dropwizard.metrics.version>
         <embedded-postgres.version>2.2.0</embedded-postgres.version>
-        <error-prone-annotations.version>2.45.0</error-prone-annotations.version>
+        <error-prone-annotations.version>2.46.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
         <guava.version>33.5.0-jre</guava.version>
@@ -91,7 +91,7 @@
         <jsr305.version>3.0.2</jsr305.version>
         <kotlin.version>2.3.0</kotlin.version>
         <liquibase.version>5.0.1</liquibase.version>
-        <logback-access.version>2.0.7</logback-access.version>
+        <logback-access.version>2.0.8</logback-access.version>
         <logback-classic.version>1.5.24</logback-classic.version>
         <logback-core.version>1.5.24</logback-core.version>
         <logstash.version>9.0</logstash.version>
