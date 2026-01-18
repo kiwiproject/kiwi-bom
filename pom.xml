@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.kiwiproject</groupId>
         <artifactId>kiwi-parent</artifactId>
-        <version>3.0.35</version>
+        <version>3.0.36</version>
     </parent>
 
     <artifactId>kiwi-bom</artifactId>
@@ -33,7 +33,7 @@
         <apiguardian-api.version>1.1.2</apiguardian-api.version>
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj.version>3.27.6</assertj.version>
-        <byte-buddy.version>1.18.3</byte-buddy.version>
+        <byte-buddy.version>1.18.4</byte-buddy.version>
         <caffeine.version>3.2.3</caffeine.version>
         <checker-qual.version>3.53.0</checker-qual.version>
         <classmate.version>1.7.3</classmate.version>
@@ -92,21 +92,21 @@
         <kotlin.version>2.3.0</kotlin.version>
         <liquibase.version>5.0.1</liquibase.version>
         <logback-access.version>2.0.8</logback-access.version>
-        <logback-classic.version>1.5.24</logback-classic.version>
-        <logback-core.version>1.5.24</logback-core.version>
+        <logback-classic.version>1.5.25</logback-classic.version>
+        <logback-core.version>1.5.25</logback-core.version>
         <logstash.version>9.0</logstash.version>
         <mongodb-driver-bom.version>5.6.2</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
         <netty.version>4.2.9.Final</netty.version>
         <okhttp.version>5.3.2</okhttp.version>
         <okio.version>3.16.4</okio.version>
-        <postgresql.version>42.7.8</postgresql.version>
+        <postgresql.version>42.7.9</postgresql.version>
         <saaj-impl.version>3.0.4</saaj-impl.version>
         <servo-core.version>0.13.2</servo-core.version>
         <snakeyaml.version>2.5</snakeyaml.version>
         <slf4j.version>2.0.17</slf4j.version>
-        <spring.version>7.0.2</spring.version>
-        <spring-data-bom.version>2025.1.1</spring-data-bom.version>
+        <spring.version>7.0.3</spring.version>
+        <spring-data-bom.version>2025.1.2</spring-data-bom.version>
         <stax-ex.version>2.1.0</stax-ex.version>
         <stax2-api.version>4.2.2</stax2-api.version>
         <test-containers.version>2.0.3</test-containers.version>
