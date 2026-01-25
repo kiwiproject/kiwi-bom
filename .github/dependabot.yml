@@ -23,6 +23,8 @@ updates:
       - "sleberknight"
       - "chrisrohr"
     open-pull-requests-limit: 10
+    commit-message:
+      prefix: "chore(deps)"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
@@ -34,4 +36,5 @@ updates:
     assignees:
       - "sleberknight"
       - "chrisrohr"
-
+    commit-message:
+      prefix: "chore(deps)"
