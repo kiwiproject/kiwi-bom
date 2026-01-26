@@ -32,7 +32,7 @@
         <ant.version>1.10.15</ant.version>
         <apiguardian-api.version>1.1.2</apiguardian-api.version>
         <archaius-core.version>0.7.12</archaius-core.version>
-        <assertj.version>3.27.6</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <byte-buddy.version>1.18.4</byte-buddy.version>
         <caffeine.version>3.2.3</caffeine.version>
         <checker-qual.version>3.53.0</checker-qual.version>
@@ -48,7 +48,7 @@
         <commons-validator.version>1.10.1</commons-validator.version>
         <curator.version>5.9.0</curator.version>
         <dropwizard.version>5.0.0</dropwizard.version>
-        <dropwizard.metrics.version>4.2.37</dropwizard.metrics.version>
+        <dropwizard.metrics.version>4.2.38</dropwizard.metrics.version>
         <embedded-postgres.version>2.2.0</embedded-postgres.version>
         <error-prone-annotations.version>2.46.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
@@ -92,8 +92,8 @@
         <kotlin.version>2.3.0</kotlin.version>
         <liquibase.version>5.0.1</liquibase.version>
         <logback-access.version>2.0.8</logback-access.version>
-        <logback-classic.version>1.5.25</logback-classic.version>
-        <logback-core.version>1.5.25</logback-core.version>
+        <logback-classic.version>1.5.26</logback-classic.version>
+        <logback-core.version>1.5.26</logback-core.version>
         <logstash.version>9.0</logstash.version>
         <mongodb-driver-bom.version>5.6.2</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
