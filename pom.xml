@@ -81,7 +81,7 @@
         <jaxws-rt.version>4.0.3</jaxws-rt.version>
         <jboss-logging.version>3.6.2.Final</jboss-logging.version>
         <jdbi3.version>3.51.0</jdbi3.version>
-        <jersey.version>3.1.11</jersey.version>
+        <jersey.version>4.0.2</jersey.version>
         <jetbrains-annotations.version>26.0.2-1</jetbrains-annotations.version>
         <jetty.version>12.1.5</jetty.version>
         <joda-time.version>2.14.0</joda-time.version>
