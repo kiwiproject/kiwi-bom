@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.kiwiproject</groupId>
         <artifactId>kiwi-parent</artifactId>
-        <version>3.0.37</version>
+        <version>3.0.38</version>
     </parent>
 
     <artifactId>kiwi-bom</artifactId>
@@ -33,7 +33,7 @@
         <apiguardian-api.version>1.1.2</apiguardian-api.version>
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj.version>3.27.7</assertj.version>
-        <byte-buddy.version>1.18.7</byte-buddy.version>
+        <byte-buddy.version>1.18.8</byte-buddy.version>
         <caffeine.version>3.2.3</caffeine.version>
         <checker-qual.version>3.54.0</checker-qual.version>
         <classmate.version>1.7.3</classmate.version>
@@ -110,7 +110,7 @@
         <logstash.version>9.0</logstash.version>
         <mongodb-driver-bom.version>5.6.4</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
-        <netty.version>4.2.11.Final</netty.version>
+        <netty.version>4.2.12.Final</netty.version>
         <okhttp.version>5.3.2</okhttp.version>
         <okio.version>3.17.0</okio.version>
         <postgresql.version>42.7.10</postgresql.version>
@@ -121,7 +121,7 @@
         <spring.version>7.0.6</spring.version>
         <spring-data-bom.version>2025.1.4</spring-data-bom.version>
         <stax-ex.version>2.1.0</stax-ex.version>
-        <stax2-api.version>4.2.2</stax2-api.version>
+        <stax2-api.version>4.3.0</stax2-api.version>
         <test-containers.version>2.0.4</test-containers.version>
         <woodstox-core.version>7.1.1</woodstox-core.version>
         <zookeeper.version>3.9.5</zookeeper.version>
