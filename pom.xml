@@ -29,7 +29,7 @@
     <properties>
         <angus-activation.version>2.0.3</angus-activation.version>
         <angus-mail.version>2.0.5</angus-mail.version>
-        <ant.version>1.10.15</ant.version>
+        <ant.version>1.10.16</ant.version>
         <apiguardian-api.version>1.1.2</apiguardian-api.version>
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj.version>3.27.7</assertj.version>
@@ -50,7 +50,7 @@
         <dropwizard.version>5.0.1</dropwizard.version>
         <dropwizard.metrics.version>4.2.38</dropwizard.metrics.version>
         <embedded-postgres.version>2.2.2</embedded-postgres.version>
-        <error-prone-annotations.version>2.48.0</error-prone-annotations.version>
+        <error-prone-annotations.version>2.49.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
         <guava.version>33.5.0-jre</guava.version>
@@ -96,7 +96,7 @@
         <jdbi3.version>3.52.0</jdbi3.version>
         <jersey.version>3.1.11</jersey.version>
         <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
-        <jetty.version>12.1.7</jetty.version>
+        <jetty.version>12.1.8</jetty.version>
         <joda-time.version>2.14.1</joda-time.version>
         <jsonassert.version>1.5.3</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
