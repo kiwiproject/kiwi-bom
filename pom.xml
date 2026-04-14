@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>kiwi-bom</artifactId>
-    <version>3.0.5-SNAPSHOT</version>
+    <version>3.1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
@@ -102,6 +102,7 @@
         <jsch.version>0.1.55</jsch.version>
         <jspecify.version>1.0.0</jspecify.version>
         <jsr305.version>3.0.2</jsr305.version>
+        <junixsocket.version>2.10.1</junixsocket.version>
         <kotlin.version>2.3.20</kotlin.version>
         <liquibase.version>5.0.2</liquibase.version>
         <logback-access.version>2.0.12</logback-access.version>
@@ -576,6 +577,13 @@
                 <groupId>org.jspecify</groupId>
                 <artifactId>jspecify</artifactId>
                 <version>${jspecify.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.kohlschutter.junixsocket</groupId>
+                <artifactId>junixsocket-core</artifactId>
+                <version>${junixsocket.version}</version>
+                <type>pom</type>
             </dependency>
 
             <dependency>
