@@ -29,7 +29,7 @@
     <properties>
         <angus-activation.version>2.0.3</angus-activation.version>
         <angus-mail.version>2.0.5</angus-mail.version>
-        <ant.version>1.10.16</ant.version>
+        <ant.version>1.10.17</ant.version>
         <apiguardian-api.version>1.1.2</apiguardian-api.version>
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj.version>3.27.7</assertj.version>
@@ -53,7 +53,7 @@
         <error-prone-annotations.version>2.49.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
-        <guava.version>33.5.0-jre</guava.version>
+        <guava.version>33.6.0-jre</guava.version>
         <h2.version>2.4.240</h2.version>
         <hamcrest.version>3.0</hamcrest.version>
         <hibernate.version>6.6.44.Final</hibernate.version>
@@ -93,7 +93,7 @@
         <jaxb.glassfish.version>4.0.7</jaxb.glassfish.version>
         <jaxws-rt.version>4.0.4</jaxws-rt.version>
         <jboss-logging.version>3.6.3.Final</jboss-logging.version>
-        <jdbi3.version>3.52.0</jdbi3.version>
+        <jdbi3.version>3.52.1</jdbi3.version>
         <jersey.version>3.1.11</jersey.version>
         <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
         <jetty.version>12.1.8</jetty.version>
@@ -109,7 +109,7 @@
         <logback-classic.version>1.5.32</logback-classic.version>
         <logback-core.version>1.5.32</logback-core.version>
         <logstash.version>9.0</logstash.version>
-        <mongodb-driver-bom.version>5.6.4</mongodb-driver-bom.version>
+        <mongodb-driver-bom.version>5.6.5</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
         <netty.version>4.2.12.Final</netty.version>
         <okhttp.version>5.3.2</okhttp.version>
