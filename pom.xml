@@ -88,7 +88,7 @@
         <jakarta.servlet-api.version>6.0.0</jakarta.servlet-api.version>
         <jakarta.validation-api.version>3.0.2</jakarta.validation-api.version>
         <jakarta.xml.bind-api.version>4.0.5</jakarta.xml.bind-api.version>
-        <javassist.version>3.30.2-GA</javassist.version>
+        <javassist.version>3.31.0-GA</javassist.version>
         <jaxb-api.version>2.3.1</jaxb-api.version>
         <jaxb.glassfish.version>4.0.7</jaxb.glassfish.version>
         <jaxws-rt.version>4.0.4</jaxws-rt.version>
@@ -119,11 +119,11 @@
         <servo-core.version>0.13.2</servo-core.version>
         <snakeyaml.version>2.6</snakeyaml.version>
         <slf4j.version>2.0.17</slf4j.version>
-        <spring.version>7.0.6</spring.version>
-        <spring-data-bom.version>2025.1.4</spring-data-bom.version>
+        <spring.version>7.0.7</spring.version>
+        <spring-data-bom.version>2025.1.5</spring-data-bom.version>
         <stax-ex.version>2.1.0</stax-ex.version>
         <stax2-api.version>4.3.0</stax2-api.version>
-        <test-containers.version>2.0.4</test-containers.version>
+        <test-containers.version>2.0.5</test-containers.version>
         <woodstox-core.version>7.1.1</woodstox-core.version>
         <zookeeper.version>3.9.5</zookeeper.version>
 
