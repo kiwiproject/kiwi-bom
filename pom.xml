@@ -5,11 +5,11 @@
     <parent>
         <groupId>org.kiwiproject</groupId>
         <artifactId>kiwi-parent</artifactId>
-        <version>3.0.37</version>
+        <version>3.0.38</version>
     </parent>
 
     <artifactId>kiwi-bom</artifactId>
-    <version>3.0.4-SNAPSHOT</version>
+    <version>3.1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
@@ -29,13 +29,13 @@
     <properties>
         <angus-activation.version>2.0.3</angus-activation.version>
         <angus-mail.version>2.0.5</angus-mail.version>
-        <ant.version>1.10.15</ant.version>
+        <ant.version>1.10.17</ant.version>
         <apiguardian-api.version>1.1.2</apiguardian-api.version>
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj.version>3.27.7</assertj.version>
-        <byte-buddy.version>1.18.7</byte-buddy.version>
+        <byte-buddy.version>1.18.8</byte-buddy.version>
         <caffeine.version>3.2.3</caffeine.version>
-        <checker-qual.version>3.54.0</checker-qual.version>
+        <checker-qual.version>4.0.0</checker-qual.version>
         <classmate.version>1.7.3</classmate.version>
         <commons-codec.version>1.21.0</commons-codec.version>
         <commons-collections4.version>4.5.0</commons-collections4.version>
@@ -50,13 +50,13 @@
         <dropwizard.version>5.0.1</dropwizard.version>
         <dropwizard.metrics.version>4.2.38</dropwizard.metrics.version>
         <embedded-postgres.version>2.2.2</embedded-postgres.version>
-        <error-prone-annotations.version>2.48.0</error-prone-annotations.version>
+        <error-prone-annotations.version>2.49.0</error-prone-annotations.version>
         <eureka.version>1.10.18</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
-        <guava.version>33.5.0-jre</guava.version>
+        <guava.version>33.6.0-jre</guava.version>
         <h2.version>2.4.240</h2.version>
         <hamcrest.version>3.0</hamcrest.version>
-        <hibernate.version>6.6.44.Final</hibernate.version>
+        <hibernate.version>6.6.48.Final</hibernate.version>
         <hibernate-validator.version>8.0.3.Final</hibernate-validator.version>
         <hk2.version>4.0.0</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
@@ -88,29 +88,30 @@
         <jakarta.servlet-api.version>6.0.0</jakarta.servlet-api.version>
         <jakarta.validation-api.version>3.0.2</jakarta.validation-api.version>
         <jakarta.xml.bind-api.version>4.0.5</jakarta.xml.bind-api.version>
-        <javassist.version>3.30.2-GA</javassist.version>
+        <javassist.version>3.31.0-GA</javassist.version>
         <jaxb-api.version>2.3.1</jaxb-api.version>
         <jaxb.glassfish.version>4.0.7</jaxb.glassfish.version>
         <jaxws-rt.version>4.0.4</jaxws-rt.version>
         <jboss-logging.version>3.6.3.Final</jboss-logging.version>
-        <jdbi3.version>3.52.0</jdbi3.version>
+        <jdbi3.version>3.52.1</jdbi3.version>
         <jersey.version>3.1.11</jersey.version>
         <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
-        <jetty.version>12.1.7</jetty.version>
+        <jetty.version>12.1.8</jetty.version>
         <joda-time.version>2.14.1</joda-time.version>
         <jsonassert.version>1.5.3</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
         <jspecify.version>1.0.0</jspecify.version>
         <jsr305.version>3.0.2</jsr305.version>
+        <junixsocket.version>2.10.1</junixsocket.version>
         <kotlin.version>2.3.20</kotlin.version>
         <liquibase.version>5.0.2</liquibase.version>
         <logback-access.version>2.0.12</logback-access.version>
         <logback-classic.version>1.5.32</logback-classic.version>
         <logback-core.version>1.5.32</logback-core.version>
         <logstash.version>9.0</logstash.version>
-        <mongodb-driver-bom.version>5.6.4</mongodb-driver-bom.version>
+        <mongodb-driver-bom.version>5.6.5</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
-        <netty.version>4.2.11.Final</netty.version>
+        <netty.version>4.2.12.Final</netty.version>
         <okhttp.version>5.3.2</okhttp.version>
         <okio.version>3.17.0</okio.version>
         <postgresql.version>42.7.10</postgresql.version>
@@ -118,11 +119,11 @@
         <servo-core.version>0.13.2</servo-core.version>
         <snakeyaml.version>2.6</snakeyaml.version>
         <slf4j.version>2.0.17</slf4j.version>
-        <spring.version>7.0.6</spring.version>
-        <spring-data-bom.version>2025.1.4</spring-data-bom.version>
+        <spring.version>7.0.7</spring.version>
+        <spring-data-bom.version>2025.1.5</spring-data-bom.version>
         <stax-ex.version>2.1.0</stax-ex.version>
-        <stax2-api.version>4.2.2</stax2-api.version>
-        <test-containers.version>2.0.4</test-containers.version>
+        <stax2-api.version>4.3.0</stax2-api.version>
+        <test-containers.version>2.0.5</test-containers.version>
         <woodstox-core.version>7.1.1</woodstox-core.version>
         <zookeeper.version>3.9.5</zookeeper.version>
 
@@ -576,6 +577,13 @@
                 <groupId>org.jspecify</groupId>
                 <artifactId>jspecify</artifactId>
                 <version>${jspecify.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.kohlschutter.junixsocket</groupId>
+                <artifactId>junixsocket-core</artifactId>
+                <version>${junixsocket.version}</version>
+                <type>pom</type>
             </dependency>
 
             <dependency>
