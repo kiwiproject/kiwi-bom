@@ -119,7 +119,7 @@
         <saaj-impl.version>3.0.5</saaj-impl.version>
         <servo-core.version>0.13.2</servo-core.version>
         <snakeyaml.version>2.6</snakeyaml.version>
-        <slf4j.version>2.0.17</slf4j.version>
+        <slf4j.version>2.0.18</slf4j.version>
         <spring.version>7.0.7</spring.version>
         <spring-data-bom.version>2025.1.5</spring-data-bom.version>
         <stax-ex.version>2.1.0</stax-ex.version>
