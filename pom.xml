@@ -33,9 +33,9 @@
         <apiguardian-api.version>1.1.2</apiguardian-api.version>
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj.version>3.27.7</assertj.version>
-        <byte-buddy.version>1.18.8</byte-buddy.version>
+        <byte-buddy.version>1.18.10</byte-buddy.version>
         <caffeine.version>3.2.4</caffeine.version>
-        <checker-qual.version>4.1.0</checker-qual.version>
+        <checker-qual.version>4.2.0</checker-qual.version>
         <classmate.version>1.7.3</classmate.version>
         <commons-codec.version>1.22.0</commons-codec.version>
         <commons-collections4.version>4.5.0</commons-collections4.version>
@@ -47,7 +47,7 @@
         <commons-text.version>1.15.0</commons-text.version>
         <commons-validator.version>1.10.1</commons-validator.version>
         <curator.version>5.9.0</curator.version>
-        <dropwizard.version>5.0.1</dropwizard.version>
+        <dropwizard.version>5.0.2</dropwizard.version>
         <dropwizard.metrics.version>4.2.39</dropwizard.metrics.version>
         <embedded-postgres.version>2.2.2</embedded-postgres.version>
         <error-prone-annotations.version>2.49.0</error-prone-annotations.version>
@@ -76,7 +76,7 @@
         <httpcore.version>4.4.16</httpcore.version>
         <httpcore5.version>5.4.2</httpcore5.version>
         <httpcore5-h2.version>5.4.2</httpcore5-h2.version>
-        <jackson.version>2.21.3</jackson.version>
+        <jackson.version>2.22.0</jackson.version>
         <jakarta.annotation-api.version>2.1.1</jakarta.annotation-api.version>
         <jakarta.activation-api.version>2.1.4</jakarta.activation-api.version>
         <jakarta.activation-api.sun.version>2.0.1</jakarta.activation-api.sun.version>
@@ -90,13 +90,13 @@
         <jakarta.xml.bind-api.version>4.0.5</jakarta.xml.bind-api.version>
         <javassist.version>3.31.0-GA</javassist.version>
         <jaxb-api.version>2.3.1</jaxb-api.version>
-        <jaxb.glassfish.version>4.0.8</jaxb.glassfish.version>
+        <jaxb.glassfish.version>4.0.9</jaxb.glassfish.version>
         <jaxws-rt.version>4.0.4</jaxws-rt.version>
         <jboss-logging.version>3.6.3.Final</jboss-logging.version>
         <jdbi3.version>3.53.0</jdbi3.version>
         <jersey.version>3.1.11</jersey.version>
         <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
-        <jetty.version>12.1.9</jetty.version>
+        <jetty.version>12.1.10</jetty.version>
         <joda-time.version>2.14.2</joda-time.version>
         <jsonassert.version>1.5.3</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
@@ -104,15 +104,15 @@
         <jspecify.version>1.0.0</jspecify.version>
         <jsr305.version>3.0.2</jsr305.version>
         <junixsocket.version>2.10.1</junixsocket.version>
-        <kotlin.version>2.3.21</kotlin.version>
+        <kotlin.version>2.4.0</kotlin.version>
         <liquibase.version>5.0.3</liquibase.version>
         <logback-access.version>2.0.12</logback-access.version>
-        <logback-classic.version>1.5.32</logback-classic.version>
-        <logback-core.version>1.5.32</logback-core.version>
+        <logback-classic.version>1.5.34</logback-classic.version>
+        <logback-core.version>1.5.34</logback-core.version>
         <logstash.version>9.0</logstash.version>
-        <mongodb-driver-bom.version>5.7.0</mongodb-driver-bom.version>
+        <mongodb-driver-bom.version>5.8.0</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
-        <netty.version>4.2.14.Final</netty.version>
+        <netty.version>4.2.15.Final</netty.version>
         <okhttp.version>5.3.2</okhttp.version>
         <okio.version>3.17.0</okio.version>
         <postgresql.version>42.7.11</postgresql.version>
