@@ -101,7 +101,7 @@
         <joda-time.version>2.14.2</joda-time.version>
         <jsonassert.version>1.5.3</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
-        <jsch-mwiede-fork.version>2.28.2</jsch-mwiede-fork.version>
+        <jsch-mwiede-fork.version>2.28.3</jsch-mwiede-fork.version>
         <jspecify.version>1.0.0</jspecify.version>
         <jsr305.version>3.0.2</jsr305.version>
         <junixsocket.version>2.10.1</junixsocket.version>
