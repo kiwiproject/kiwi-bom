@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.kiwiproject</groupId>
         <artifactId>kiwi-parent</artifactId>
-        <version>3.0.41</version>
+        <version>3.0.42</version>
     </parent>
 
     <artifactId>kiwi-bom</artifactId>
@@ -111,7 +111,7 @@
         <logback-classic.version>1.5.37</logback-classic.version>
         <logback-core.version>1.5.37</logback-core.version>
         <logstash.version>9.0</logstash.version>
-        <mongodb-driver-bom.version>5.8.0</mongodb-driver-bom.version>
+        <mongodb-driver-bom.version>5.9.0</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
         <netty.version>4.2.15.Final</netty.version>
         <okhttp.version>5.4.0</okhttp.version>
