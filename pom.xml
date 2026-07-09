@@ -60,19 +60,7 @@
         <hibernate-validator.version>8.0.3.Final</hibernate-validator.version>
         <hk2.version>3.1.1</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
-
-        <!--
-        NOTE:
-        HttpClient 5.6 introduces classpath-driven transparent content decompression
-        (via commons-compress or similar) which conflicts with Dropwizard Jersey gzip handling
-        and causes ZipException / connection resets. Keeping this in line with the Dropwizard
-        version until it is able to use 5.6.
-
-        See the 5.6 release notes here:
-        https://downloads.apache.org/httpcomponents/httpclient/RELEASE_NOTES-5.6.x.txt
-        -->
-        <httpclient5.version>5.5.2</httpclient5.version>
-
+        <httpclient5.version>5.6.1</httpclient5.version>
         <httpcore.version>4.4.16</httpcore.version>
         <httpcore5.version>5.4.3</httpcore5.version>
         <httpcore5-h2.version>5.4.3</httpcore5-h2.version>
