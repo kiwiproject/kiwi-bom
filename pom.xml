@@ -89,22 +89,22 @@
         <joda-time.version>2.14.2</joda-time.version>
         <jsonassert.version>1.5.3</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
-        <jsch-mwiede-fork.version>2.28.3</jsch-mwiede-fork.version>
+        <jsch-mwiede-fork.version>2.28.4</jsch-mwiede-fork.version>
         <jspecify.version>1.0.0</jspecify.version>
         <jsr305.version>3.0.2</jsr305.version>
         <junixsocket.version>2.10.1</junixsocket.version>
         <kotlin.version>2.4.0</kotlin.version>
         <liquibase.version>5.0.3</liquibase.version>
-        <logback-access.version>2.0.12</logback-access.version>
-        <logback-classic.version>1.5.37</logback-classic.version>
-        <logback-core.version>1.5.37</logback-core.version>
+        <logback-access.version>2.0.13</logback-access.version>
+        <logback-classic.version>1.5.38</logback-classic.version>
+        <logback-core.version>1.5.38</logback-core.version>
         <logstash.version>9.0</logstash.version>
         <mongodb-driver-bom.version>5.9.0</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
-        <netty.version>4.2.15.Final</netty.version>
+        <netty.version>4.2.16.Final</netty.version>
         <okhttp.version>5.4.0</okhttp.version>
         <okio.version>3.17.0</okio.version>
-        <postgresql.version>42.7.12</postgresql.version>
+        <postgresql.version>42.7.13</postgresql.version>
         <saaj-impl.version>3.0.6</saaj-impl.version>
         <servo-core.version>0.13.2</servo-core.version>
         <snakeyaml.version>2.6</snakeyaml.version>
