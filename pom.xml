@@ -65,7 +65,7 @@
         <httpcore5.version>5.4.3</httpcore5.version>
         <httpcore5-h2.version>5.4.3</httpcore5-h2.version>
         <jackson.version>2.22.1</jackson.version>
-        <jackson3.version>3.2.0</jackson3.version>
+        <jackson3.version>3.2.1</jackson3.version>
         <jakarta.annotation-api.version>2.1.1</jakarta.annotation-api.version>
         <jakarta.activation-api.version>2.1.4</jakarta.activation-api.version>
         <jakarta.activation-api.sun.version>2.0.1</jakarta.activation-api.sun.version>
@@ -82,7 +82,7 @@
         <jaxb.glassfish.version>4.0.9</jaxb.glassfish.version>
         <jaxws-rt.version>4.0.5</jaxws-rt.version>
         <jboss-logging.version>3.6.3.Final</jboss-logging.version>
-        <jdbi3.version>3.53.0</jdbi3.version>
+        <jdbi3.version>3.54.0</jdbi3.version>
         <jersey.version>3.1.11</jersey.version>
         <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
         <jetty.version>12.1.11</jetty.version>
@@ -93,7 +93,7 @@
         <jspecify.version>1.0.0</jspecify.version>
         <jsr305.version>3.0.2</jsr305.version>
         <junixsocket.version>2.10.1</junixsocket.version>
-        <kotlin.version>2.4.0</kotlin.version>
+        <kotlin.version>2.4.10</kotlin.version>
         <liquibase.version>5.0.3</liquibase.version>
         <logback-access.version>2.0.13</logback-access.version>
         <logback-classic.version>1.5.38</logback-classic.version>
