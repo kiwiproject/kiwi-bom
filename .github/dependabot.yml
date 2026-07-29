@@ -11,6 +11,10 @@ updates:
         versions: [ ">=9" ]
       - dependency-name: "org.glassfish.jersey:*"
         versions: [ ">= 4" ]
+      - dependency-name: "jakarta.servlet:jakarta.servlet-api"
+        versions: [ ">=6.1" ]
+      - dependency-name: "jakarta.validation:jakarta.validation-api"
+        versions: [ ">=3.1" ]
     groups:
       dev-deps:
         dependency-type: "development"
@@ -22,9 +26,6 @@ updates:
         update-types:
           - "minor"
           - "patch"
-        exclude-patterns:
-          - "jakarta.servlet:jakarta.servlet-api"
-          - "jakarta.validation:jakarta.validation-api"
     assignees:
       - "sleberknight"
       - "chrisrohr"
