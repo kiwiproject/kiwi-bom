@@ -4,6 +4,11 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    ignore:
+      - dependency-name: "org.hibernate.orm:hibernate-core"
+        versions: [ ">=7" ]
+      - dependency-name: "org.hibernate.validator:hibernate-validator"
+        versions: [ ">=9" ]
     groups:
       dev-deps:
         dependency-type: "development"
