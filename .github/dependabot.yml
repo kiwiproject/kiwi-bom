@@ -26,9 +26,6 @@ updates:
         update-types:
           - "minor"
           - "patch"
-        exclude-patterns:
-          - "jakarta.servlet:jakarta.servlet-api"
-          - "jakarta.validation:jakarta.validation-api"
     assignees:
       - "sleberknight"
       - "chrisrohr"
