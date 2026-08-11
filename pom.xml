@@ -35,17 +35,17 @@
         <assertj.version>3.27.7</assertj.version>
         <byte-buddy.version>1.18.11</byte-buddy.version>
         <caffeine.version>3.2.4</caffeine.version>
-        <checker-qual.version>4.2.1</checker-qual.version>
+        <checker-qual.version>4.2.2</checker-qual.version>
         <classmate.version>1.7.3</classmate.version>
         <commons-codec.version>1.22.1</commons-codec.version>
-        <commons-collections4.version>4.5.0</commons-collections4.version>
+        <commons-collections4.version>4.6.0</commons-collections4.version>
         <commons-compress.version>1.28.0</commons-compress.version>
         <commons-io.version>2.22.0</commons-io.version>
         <commons-lang3.version>3.20.0</commons-lang3.version>
         <commons-logging.version>1.4.0</commons-logging.version>
         <commons-net.version>3.13.0</commons-net.version>
         <commons-text.version>1.15.0</commons-text.version>
-        <commons-validator.version>1.10.1</commons-validator.version>
+        <commons-validator.version>1.11.0</commons-validator.version>
         <curator.version>5.9.0</curator.version>
         <dropwizard.version>5.0.2</dropwizard.version>
         <dropwizard.metrics.version>4.2.39</dropwizard.metrics.version>
@@ -56,11 +56,11 @@
         <guava.version>33.6.0-jre</guava.version>
         <h2.version>2.4.240</h2.version>
         <hamcrest.version>3.0</hamcrest.version>
-        <hibernate.version>6.6.54.Final</hibernate.version>
+        <hibernate.version>6.6.55.Final</hibernate.version>
         <hibernate-validator.version>8.0.5.Final</hibernate-validator.version>
         <hk2.version>3.1.1</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
-        <httpclient5.version>5.6.3</httpclient5.version>
+        <httpclient5.version>5.6.4</httpclient5.version>
         <httpcore.version>4.4.16</httpcore.version>
         <httpcore5.version>5.4.3</httpcore5.version>
         <httpcore5-h2.version>5.4.3</httpcore5-h2.version>
@@ -85,7 +85,7 @@
         <jdbi3.version>3.54.0</jdbi3.version>
         <jersey.version>3.1.12</jersey.version>
         <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
-        <jetty.version>12.1.11</jetty.version>
+        <jetty.version>12.1.12</jetty.version>
         <joda-time.version>2.14.3</joda-time.version>
         <jsonassert.version>1.5.3</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
@@ -101,7 +101,7 @@
         <logstash.version>9.0</logstash.version>
         <mongodb-driver-bom.version>5.9.1</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
-        <netty.version>4.2.16.Final</netty.version>
+        <netty.version>4.2.17.Final</netty.version>
         <okhttp.version>5.4.0</okhttp.version>
         <okio.version>3.18.1</okio.version>
         <postgresql.version>42.7.13</postgresql.version>
@@ -114,7 +114,7 @@
         <stax-ex.version>2.1.0</stax-ex.version>
         <stax2-api.version>4.3.0</stax2-api.version>
         <test-containers.version>2.0.5</test-containers.version>
-        <woodstox-core.version>7.2.1</woodstox-core.version>
+        <woodstox-core.version>7.2.2</woodstox-core.version>
         <zookeeper.version>3.9.5</zookeeper.version>
 
         <!-- Sonar properties -->
