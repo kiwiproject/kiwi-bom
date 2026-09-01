@@ -51,12 +51,12 @@
         <dropwizard.metrics.version>4.2.39</dropwizard.metrics.version>
         <embedded-postgres.version>2.2.2</embedded-postgres.version>
         <error-prone-annotations.version>2.50.0</error-prone-annotations.version>
-        <eureka.version>1.10.18</eureka.version>
+        <eureka.version>1.10.19</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
         <guava.version>33.7.1-jre</guava.version>
         <h2.version>2.4.240</h2.version>
         <hamcrest.version>3.0</hamcrest.version>
-        <hibernate.version>6.6.55.Final</hibernate.version>
+        <hibernate.version>6.6.56.Final</hibernate.version>
         <hibernate-validator.version>8.0.5.Final</hibernate-validator.version>
         <hk2.version>3.1.1</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
@@ -99,10 +99,10 @@
         <logback-classic.version>1.5.38</logback-classic.version>
         <logback-core.version>1.5.38</logback-core.version>
         <logstash.version>9.0</logstash.version>
-        <mongodb-driver-bom.version>5.9.2</mongodb-driver-bom.version>
+        <mongodb-driver-bom.version>5.10.0</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
         <netty.version>4.2.17.Final</netty.version>
-        <okhttp.version>5.4.0</okhttp.version>
+        <okhttp.version>5.5.0</okhttp.version>
         <okio.version>3.18.1</okio.version>
         <postgresql.version>42.7.13</postgresql.version>
         <saaj-impl.version>3.0.6</saaj-impl.version>
