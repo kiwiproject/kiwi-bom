@@ -58,7 +58,7 @@
         <hamcrest.version>3.0</hamcrest.version>
         <hibernate.version>6.6.56.Final</hibernate.version>
         <hibernate-validator.version>8.0.5.Final</hibernate-validator.version>
-        <hk2.version>3.1.1</hk2.version>
+        <hk2.version>4.0.2</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
         <httpclient5.version>5.6.4</httpclient5.version>
         <httpcore.version>4.4.16</httpcore.version>
