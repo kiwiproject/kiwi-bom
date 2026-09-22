@@ -33,7 +33,7 @@
         <apiguardian-api.version>1.1.2</apiguardian-api.version>
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj.version>3.27.7</assertj.version>
-        <byte-buddy.version>1.18.13</byte-buddy.version>
+        <byte-buddy.version>1.18.14</byte-buddy.version>
         <caffeine.version>3.2.4</caffeine.version>
         <checker-qual.version>4.2.3</checker-qual.version>
         <classmate.version>1.7.3</classmate.version>
@@ -54,9 +54,9 @@
         <eureka.version>1.10.19</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
         <guava.version>33.7.1-jre</guava.version>
-        <h2.version>2.4.240</h2.version>
+        <h2.version>2.5.250</h2.version>
         <hamcrest.version>3.0</hamcrest.version>
-        <hibernate.version>6.6.56.Final</hibernate.version>
+        <hibernate.version>6.6.57.Final</hibernate.version>
         <hibernate-validator.version>8.0.5.Final</hibernate-validator.version>
         <hk2.version>3.1.1</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
@@ -99,7 +99,7 @@
         <logback-classic.version>1.5.38</logback-classic.version>
         <logback-core.version>1.5.38</logback-core.version>
         <logstash.version>9.0</logstash.version>
-        <mongodb-driver-bom.version>5.11.0</mongodb-driver-bom.version>
+        <mongodb-driver-bom.version>5.11.1</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
         <netty.version>4.2.18.Final</netty.version>
         <okhttp.version>5.5.0</okhttp.version>
