@@ -22,6 +22,10 @@ updates:
         versions: [ ">=6.1" ]
       - dependency-name: "jakarta.validation:jakarta.validation-api"
         versions: [ ">=3.1" ]
+      # hk2 4.x is tied to Jersey 4/Jakarta EE 11, which Dropwizard (still on 3.0.x) doesn't
+      # support yet. Stay on the 3.1.x line until Dropwizard moves.
+      - dependency-name: "org.glassfish.hk2:*"
+        versions: [ ">=4" ]
     groups:
       dev-deps:
         dependency-type: "development"
