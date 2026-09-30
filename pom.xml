@@ -566,7 +566,7 @@
                 <version>${jsch.version}</version>
             </dependency>
 
-            <!-- Fork of the jsck library: see https://github.com/mwiede/jsch -->
+            <!-- Fork of the jsch library: see https://github.com/mwiede/jsch -->
             <dependency>
                 <groupId>com.github.mwiede</groupId>
                 <artifactId>jsch</artifactId>
