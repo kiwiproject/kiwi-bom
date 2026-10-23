@@ -35,7 +35,7 @@
         <assertj.version>3.27.7</assertj.version>
         <byte-buddy.version>1.18.15</byte-buddy.version>
         <caffeine.version>3.3.1</caffeine.version>
-        <checker-qual.version>4.3.0</checker-qual.version>
+        <checker-qual.version>4.3.1</checker-qual.version>
         <classmate.version>1.7.3</classmate.version>
         <commons-codec.version>1.23.0</commons-codec.version>
         <commons-collections4.version>4.6.0</commons-collections4.version>
@@ -56,7 +56,7 @@
         <guava.version>33.7.2-jre</guava.version>
         <h2.version>2.5.252</h2.version>
         <hamcrest.version>3.0</hamcrest.version>
-        <hibernate.version>6.6.58.Final</hibernate.version>
+        <hibernate.version>6.6.59.Final</hibernate.version>
         <hibernate-validator.version>8.0.6.Final</hibernate-validator.version>
         <hk2.version>3.1.1</hk2.version>
         <httpclient.version>4.5.14</httpclient.version>
@@ -64,7 +64,7 @@
         <httpcore.version>4.4.16</httpcore.version>
         <httpcore5.version>5.4.4</httpcore5.version>
         <httpcore5-h2.version>5.4.4</httpcore5-h2.version>
-        <jackson.version>2.22.3</jackson.version>
+        <jackson.version>2.22.4</jackson.version>
         <jackson3.version>3.2.3</jackson3.version>
         <jakarta.annotation-api.version>2.1.1</jakarta.annotation-api.version>
         <jakarta.activation-api.version>2.1.4</jakarta.activation-api.version>
