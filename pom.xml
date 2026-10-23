@@ -50,7 +50,7 @@
         <dropwizard.version>5.0.2</dropwizard.version>
         <dropwizard.metrics.version>4.2.40</dropwizard.metrics.version>
         <embedded-postgres.version>2.2.2</embedded-postgres.version>
-        <error-prone-annotations.version>2.50.0</error-prone-annotations.version>
+        <error-prone-annotations.version>2.51.0</error-prone-annotations.version>
         <eureka.version>1.10.19</eureka.version>
         <fastinfoset.version>2.1.1</fastinfoset.version>
         <guava.version>33.7.2-jre</guava.version>
@@ -65,7 +65,7 @@
         <httpcore5.version>5.4.4</httpcore5.version>
         <httpcore5-h2.version>5.4.4</httpcore5-h2.version>
         <jackson.version>2.22.4</jackson.version>
-        <jackson3.version>3.2.3</jackson3.version>
+        <jackson3.version>3.2.4</jackson3.version>
         <jakarta.annotation-api.version>2.1.1</jakarta.annotation-api.version>
         <jakarta.activation-api.version>2.1.4</jakarta.activation-api.version>
         <jakarta.activation-api.sun.version>2.0.1</jakarta.activation-api.sun.version>
@@ -102,15 +102,15 @@
         <mongodb-driver-bom.version>5.13.0</mongodb-driver-bom.version>
         <mongo-java-server.version>1.47.0</mongo-java-server.version>
         <netty.version>4.2.19.Final</netty.version>
-        <okhttp.version>5.5.0</okhttp.version>
+        <okhttp.version>5.5.1</okhttp.version>
         <okio.version>3.18.2</okio.version>
         <postgresql.version>42.7.14</postgresql.version>
         <saaj-impl.version>3.0.6</saaj-impl.version>
         <servo-core.version>0.13.2</servo-core.version>
         <snakeyaml.version>2.7</snakeyaml.version>
         <slf4j.version>2.0.20</slf4j.version>
-        <spring.version>7.0.9</spring.version>
-        <spring-data-bom.version>2026.0.1</spring-data-bom.version>
+        <spring.version>7.0.10</spring.version>
+        <spring-data-bom.version>2026.0.2</spring-data-bom.version>
         <stax-ex.version>2.1.0</stax-ex.version>
         <stax2-api.version>4.3.2</stax2-api.version>
         <test-containers.version>2.0.5</test-containers.version>
