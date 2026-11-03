@@ -33,7 +33,7 @@
         <apiguardian-api.version>1.1.2</apiguardian-api.version>
         <archaius-core.version>0.7.12</archaius-core.version>
         <assertj.version>3.27.7</assertj.version>
-        <byte-buddy.version>1.18.15</byte-buddy.version>
+        <byte-buddy.version>1.18.16</byte-buddy.version>
         <caffeine.version>3.3.1</caffeine.version>
         <checker-qual.version>4.3.1</checker-qual.version>
         <classmate.version>1.8.0</classmate.version>
@@ -86,7 +86,7 @@
         <jersey.version>3.1.12</jersey.version>
         <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
         <jetty.version>12.1.14</jetty.version>
-        <joda-time.version>2.15.0</joda-time.version>
+        <joda-time.version>2.15.1</joda-time.version>
         <jsonassert.version>1.5.3</jsonassert.version>
         <jsch.version>0.1.55</jsch.version>
         <jsch-mwiede-fork.version>2.28.8</jsch-mwiede-fork.version>
@@ -115,7 +115,7 @@
         <stax2-api.version>4.3.2</stax2-api.version>
         <test-containers.version>2.0.5</test-containers.version>
         <woodstox-core.version>7.3.0</woodstox-core.version>
-        <zookeeper.version>3.9.6</zookeeper.version>
+        <zookeeper.version>3.9.7</zookeeper.version>
 
         <!-- Sonar properties -->
         <sonar.projectKey>kiwiproject_kiwi-bom</sonar.projectKey>
